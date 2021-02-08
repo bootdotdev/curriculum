@@ -18,20 +18,20 @@ A roadmap of the current and planned Qvault computer science programs
 
 ### Go find a job/internship here, continue program in spare time
 
-11. Computer Architecture and Hardware (WASM?)
-12. Graphics Programming (JavaScript, Canvas, WebGL)
-13. Intro to Functional Programming (JavaScript, PureScript)
-14. Discrete Math (???)
-15. Python Mastery 2
-16. Advanced Algorithms (Python)
-17. [Intro to Functional Programming (JavaScript, PureScript)](https://qvault.io/intro-to-functional-programming/)
-18. Artificial Intelligence (Python)
-19. [Go Mastery 2](https://qvault.io/go-mastery-course/)
-20. Distributed Systems (Go)
-21. [Practical Cryptography (Go)](https://qvault.io/practical-cryptography-course/)
-22. Computational Theory (???)
-23. Compilers (???)
-24. Final Project (???)
+12. Computer Architecture and Hardware (WASM?)
+13. Graphics Programming (JavaScript, Canvas, WebGL)
+14. Intro to Functional Programming (JavaScript, PureScript)
+15. Discrete Math (???)
+16. Python Mastery 2
+17. Advanced Algorithms (Python)
+18. [Intro to Functional Programming (JavaScript, PureScript)](https://qvault.io/intro-to-functional-programming/)
+19. Artificial Intelligence (Python)
+20. [Go Mastery 2](https://qvault.io/go-mastery-course/)
+21. Distributed Systems (Go)
+22. [Practical Cryptography (Go)](https://qvault.io/practical-cryptography-course/)
+23. Computational Theory (???)
+24. Compilers (???)
+25. Final Project (???)
 
 ## 👏 Contribute and Contact
 
