@@ -1,8 +1,8 @@
-# Qvault Computer Science Curriculums
+# Qvault's Computer Science Curriculum
 
-A roadmap of the current and planned Qvault computer science programs
+A roadmap of the planned Qvault computer science program. Courses with links have already been released.
 
-## The Online CS Degree (Unaccredited)
+## An Online Unaccredited CS Degree
 
 1. [Basic Intro to Coding (JavaScript)](https://qvault.io/basic-intro-to-coding-course/)
 2. [Basic Intro to Coding 2 (JavaScript)](https://qvault.io/basic-intro-to-coding-course/)
@@ -11,13 +11,10 @@ A roadmap of the current and planned Qvault computer science programs
 5. [Big-O Algorithms (Go)](https://qvault.io/big-o-algorithms-course/)
 6. Python Mastery 1 (Python)
 7. Object Oriented Programming (Python)
-8.  [Big-O Data Structures (Python)](https://qvault.io/big-o-data-structures-course/)
-9.  Relational Databases (SQLite?)
+8. [Big-O Data Structures (Python)](https://qvault.io/big-o-data-structures-course/)
+9. Relational Databases (SQLite?)
 10. CRUD Servers (GO)
 11. Modern Web Applications (JavaScript)
-
-### Go find a job/internship here, continue program in spare time
-
 12. Computer Architecture and Hardware (WASM?)
 13. Graphics Programming (JavaScript, Canvas, WebGL)
 14. Intro to Functional Programming (JavaScript, PureScript)
@@ -33,11 +30,19 @@ A roadmap of the current and planned Qvault computer science programs
 24. Compilers (???)
 25. Final Project (???)
 
+### 📝 Notes
+
+One goal is to keep the curriculum as linear as possible. We want the majority of students to be given a simple path to completion, without needing to make too many choices between classes. That said, electives and bonus courses are and will always be a part of Qvault.
+
+We want to keep the tech stack *fairly* lean. In other words, the goal is to teach the concepts of CS without forcing students to learn too many languages, frameworks and tools. For this reason, the primary languages of Qvault are currently:
+
+* JavaScript
+* Go
+* Python
+
 ## 👏 Contribute and Contact
 
-We would love help and feedback on how we can make the curriculum better! If you would like to discuss the project feel free to contact us. We are most responsive on Discord but you can also find us on Twitter:
+We would love help and feedback on how we can improve the curriculum! If you would like to discuss the project feel free to [contact us](https://qvault.io/contact/). We're most responsive on Discord but you can also find us on Twitter:
 
 * [Twitter](https://twitter.com/q_vault)
 * [Discord](https://discord.com/invite/HxuxE6Nv)
-
-If you're interested in writing or editing a course (and being paid to do so) please join the Discord and send me a DM (Lane) with your resume.
