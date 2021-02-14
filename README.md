@@ -46,9 +46,13 @@ We want to keep the tech stack *fairly* lean. In other words, the goal is to tea
 * Go
 * Python
 
-## 👏 Contribute and Contact
+## 👏 Contribute
 
-We would love help and feedback on how we can improve the curriculum! If you would like to discuss the project feel free to [contact us](https://qvault.io/contact/). We're most responsive on Discord but you can also find us on Twitter:
+We love help and feedback on how we can improve the curriculum! If you're confident in your suggestions feel free to fork the repo and open pull requests to the `main` branch. Otherwise, if you're less sure, feel free to open issues here on Github. Lastly, if you just want to talk about some ideas, use the discussions tab or contact us directly usingg one of the methods below.
+
+## 💬 Contact
+
+If you would like to discuss the project feel free to [contact us](https://qvault.io/contact/). We're most responsive on Discord but you can also find us on Twitter:
 
 * [Twitter](https://twitter.com/q_vault)
 * [Discord](https://discord.com/invite/HxuxE6Nv)
