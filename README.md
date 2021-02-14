@@ -1,6 +1,6 @@
 # Qvault's Computer Science Curriculum
 
-A roadmap of the planned Qvault computer science program. Courses with links have already been released.
+A roadmap of the planned [Qvault computer science program](https://qvault.io). Courses with links have already been released.
 
 ## An Online Unaccredited CS Degree
 
