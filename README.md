@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://qvault.io/wp-content/uploads/2020/10/QVault-app-min-150x150.png">
+</p>
+
 # Qvault's Computer Science Curriculum
 
 A roadmap of the planned [Qvault computer science program](https://qvault.io). Courses with links have already been released.
