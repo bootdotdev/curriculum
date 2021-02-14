@@ -6,6 +6,8 @@
 
 A roadmap of the planned [Qvault computer science program](https://qvault.io). Courses with links have already been released.
 
+Hit the project with a star if you find it useful ⭐
+
 ## An Online Unaccredited CS Degree
 
 1. [Basic Intro to Coding (JavaScript)](https://qvault.io/basic-intro-to-coding-course/)
