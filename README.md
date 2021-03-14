@@ -4,9 +4,12 @@
 
 # Qvault's Computer Science Curriculum
 
-A roadmap of the planned [Qvault computer science program](https://qvault.io). Courses with links have already been released.
+This is my roadmap for [Qvault's computer science program](https://qvault.io). 
 
-Hit the project with a star if you find it useful ⭐
+* Courses with links have already been released
+* All courses are free to audit
+* If you like the courses please consider supporting continued development via a pro subscription
+* Hit the project with a star if you find it useful ⭐
 
 ## An Online Unaccredited CS Degree
 
@@ -49,11 +52,11 @@ We want to keep the tech stack *fairly* lean. In other words, the goal is to tea
 
 ## 👏 Contribute
 
-We love help and feedback on how we can improve the curriculum! If you're confident in your suggestions feel free to fork the repo and open pull requests to the `main` branch. Otherwise, if you're less sure, feel free to open issues here on Github. Lastly, if you just want to talk about some ideas, use the discussions tab or contact us directly usingg one of the methods below.
+I love help and feedback on how I can improve the curriculum! The recommended way to help is to submit issues here on Github. If you just want to talk about some ideas, use the discussions tab or contact me directly using one of the methods below.
 
 ## 💬 Contact
 
-If you would like to discuss the project feel free to [contact us](https://qvault.io/contact/). We're most responsive on Discord but you can also find us on Twitter:
+If you would like to discuss the project feel free to [contact me on Qvault](https://qvault.io/contact/). I'm most responsive on Discord but you can also find me on Twitter:
 
 * [Twitter](https://twitter.com/q_vault)
 * [Discord](https://discord.com/invite/HxuxE6Nv)
