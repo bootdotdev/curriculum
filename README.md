@@ -30,7 +30,7 @@ This is my roadmap for [Qvault's computer science program](https://qvault.io).
 15. Intro to Functional Programming (JavaScript, PureScript)
 16. Discrete Math (???)
 17. Python Mastery 2
-18. Advanced Algorithms (Python)
+18. [Advanced Algorithms (Python)](https://qvault.io/advanced-algorithms-course/)
 19. [Intro to Functional Programming (JavaScript, PureScript)](https://qvault.io/intro-to-functional-programming/)
 20. Artificial Intelligence (Python)
 21. [Go Mastery 2](https://qvault.io/go-mastery-course/)
