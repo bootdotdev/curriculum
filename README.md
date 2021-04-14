@@ -42,9 +42,9 @@ This is my roadmap for [Qvault's computer science program](https://qvault.io).
 
 ### 📝 Notes
 
-One goal is to keep the curriculum as linear as possible. We want the majority of students to be given a simple path to completion, without needing to make too many choices between classes. That said, electives and bonus courses are and will always be a part of Qvault.
+One goal is to keep the curriculum as linear as possible. I want the majority of students to be given a *simple* path to completion, without needing to make too many choices between classes. That said, electives and bonus courses are and will always be a part of Qvault.
 
-We want to keep the tech stack *fairly* lean. In other words, the goal is to teach the concepts of CS without forcing students to learn too many languages, frameworks and tools. For this reason, the primary languages of Qvault are currently:
+I want to keep the tech stack *fairly* lean. In other words, the goal is to teach the concepts of CS without forcing students to learn too many languages, frameworks and tools. For this reason, the primary languages of Qvault are currently:
 
 * JavaScript
 * Go
