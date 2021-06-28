@@ -4,12 +4,12 @@
 
 # Qvault's Computer Science Curriculum
 
-This is my roadmap for [Qvault's computer science program](https://qvault.io). 
+This is my roadmap for [Qvault's free-to-audit computer science program](https://qvault.io). 
 
 * Courses with links have already been released
-* All courses are free to audit
-* If you like the courses please consider supporting continued development via a pro subscription
+* All courses are free to read and interact with in a "coding sandbox"
 * Hit the project with a star if you find it useful ⭐
+* Please leave feedback in the form of issues here on Github
 
 ## An Online Unaccredited CS Degree
 
