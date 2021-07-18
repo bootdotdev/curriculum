@@ -27,7 +27,7 @@ This is my roadmap for [Qvault's free-to-audit computer science program](https:/
 12. Front-end Web Applications (JavaScript)
 13. Computer Architecture and Hardware (WASM?)
 14. Graphics Programming (JavaScript, Canvas, WebGL)
-15. Intro to Functional Programming (JavaScript, PureScript)
+15. Best Practices in Software Engineering (Go, Git)
 16. Discrete Math (???)
 17. Python Fundamentals 2 (Python)
 18. [Advanced Algorithms (Python)](https://qvault.io/advanced-algorithms-course/)
