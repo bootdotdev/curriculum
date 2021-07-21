@@ -33,7 +33,7 @@ This is my roadmap for [Qvault's free-to-audit computer science program](https:/
 18. [Advanced Algorithms (Python)](https://qvault.io/advanced-algorithms-course/)
 19. [Intro to Functional Programming (JavaScript, PureScript)](https://qvault.io/intro-to-functional-programming/)
 20. Artificial Intelligence (Python)
-21. [Go Mastery 2](https://qvault.io/go-mastery-course/)
+21. [Go Mastery 2 (Go)](https://qvault.io/go-mastery-course/)
 22. Distributed Systems (Go)
 23. [Practical Cryptography (Go)](https://qvault.io/practical-cryptography-course/)
 24. Computational Theory (???)
