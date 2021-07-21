@@ -7,7 +7,7 @@
 This is my roadmap for [Qvault's free-to-audit computer science program](https://qvault.io). 
 
 * Courses with links have already been released
-* All courses are free to read and interact with in a "coding sandbox"
+* All courses are free to audit, meaning you can read all the material and interact within a "coding sandbox"
 * Hit the project with a star if you find it useful ⭐
 * Please leave feedback in the form of issues here on Github
 
