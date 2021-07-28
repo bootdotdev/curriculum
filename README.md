@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://qvault.io/wp-content/uploads/2021/03/qvault-logo-1-150x150.png">
+  <img src="logo.png">
 </p>
 
 # Qvault's Computer Science Curriculum
