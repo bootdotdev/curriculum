@@ -4,7 +4,7 @@
 
 # Qvault's Computer Science Curriculum
 
-This is my roadmap for [Qvault's free-to-audit computer science program](https://qvault.io). 
+This is the roadmap for [Qvault's free-to-audit computer science program](https://qvault.io). 
 
 * Courses with links have already been released
 * All courses are free to audit, meaning you can read all the material and interact within a "coding sandbox"
@@ -40,11 +40,15 @@ This is my roadmap for [Qvault's free-to-audit computer science program](https:/
 25. Compilers (???)
 26. Final Project (???)
 
-### 📝 Notes
+### 💡 Features and goals
 
-One goal is to keep the curriculum as linear as possible. I want the majority of students to be given a *simple* path to completion, without needing to make too many choices between classes. That said, electives and bonus courses are and will always be a part of Qvault.
+#### Linear Curriculum
 
-I want to keep the tech stack *fairly* lean. In other words, the goal is to teach the concepts of CS without forcing students to learn too many languages, frameworks and tools. For this reason, the primary languages of Qvault are currently:
+The majority of students should have a *simple and straight* path to completion, without needing to make many choices about which courses to take. That said, electives and bonus courses are and will always be a part of Qvault.
+
+#### Tech stack
+
+The tech stack should be *fairly* lean. The goal of Qvault is to teach the *concepts* of CS without *forcing* students to learn too many languages, frameworks and tools. For this reason, the primary languages of Qvault are currently:
 
 * JavaScript
 * Go
@@ -56,7 +60,7 @@ I love help and feedback on how I can improve the curriculum! The recommended wa
 
 ## 💬 Contact
 
-If you would like to discuss the project feel free to [contact me on Qvault](https://qvault.io/contact/). I'm most responsive on Discord but you can also find me on Twitter:
+If you would like to discuss the project feel free to [contact us at Qvault](https://qvault.io/contact/). We're most responsive on Discord, but you can also find us on Twitter.
 
 * [Twitter](https://twitter.com/q_vault)
 * [Discord](https://discord.com/invite/HxuxE6Nv)
