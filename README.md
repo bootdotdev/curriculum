@@ -23,7 +23,7 @@ This is the roadmap for [Qvault's free-to-audit computer science program](https:
 8. Object-Oriented Programming (Python)
 9. [Big-O Data Structures (Python)](https://qvault.io/big-o-data-structures-course/)
 10. Relational Databases (SQLite?)
-11. Beck-end Web Servers (GO)
+11. Back-end Web Servers (Go)
 12. Front-end Web Applications (JavaScript)
 13. Computer Architecture and Hardware (WASM?)
 14. Graphics Programming (JavaScript, Canvas, WebGL)
