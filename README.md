@@ -17,18 +17,18 @@ This is the roadmap for [Qvault's free-to-audit computer science program](https:
 2. [Basic Intro to Coding 2 (JavaScript)](https://qvault.io/basic-intro-to-coding-course/)
 3. 2D Graphics (JavaScript)
 4. Website Fundamentals (HTML, CSS, JavaScript)
-5. [Go Mastery 1 (Go)](https://qvault.io/go-mastery-course/)
-6. [Big-O Algorithms (Go)](https://qvault.io/big-o-algorithms-course/)
-7. [Python Fundamentals (Python)](https://qvault.io/learn-python-course/)
-8. Object-Oriented Programming (Python)
-9. [Big-O Data Structures (Python)](https://qvault.io/big-o-data-structures-course/)
-10. Relational Databases (SQLite?)
-11. Back-end Web Servers (Go)
-12. Front-end Web Applications (JavaScript)
-13. Computer Architecture and Hardware (WASM?)
-14. Graphics Programming (JavaScript, Canvas, WebGL)
-15. Best Practices in Software Engineering (Go, Git)
-16. Discrete Math (???)
+5. [Python Fundamentals (Python)](https://qvault.io/learn-python-course/)
+6. [Big-O Algorithms (Python)](https://qvault.io/big-o-algorithms-course/)
+7. Object-Oriented Programming (Python)
+8. [Big-O Data Structures (Python)](https://qvault.io/big-o-data-structures-course/)
+9. Relational Databases (SQLite)
+10. [Go Mastery 1 (Go)](https://qvault.io/go-mastery-course/)
+11. Best Practices in Software Engineering (Go, Git)
+12. Back-end Web Servers (Go)
+13. Front-end Web Applications (JavaScript)
+14. Computer Architecture and Hardware (WASM?)
+15. 3D Graphics (JavaScript, Canvas, WebGL)
+16. Discrete Math for Coders (Go)
 17. Python Fundamentals 2 (Python)
 18. [Advanced Algorithms (Python)](https://qvault.io/advanced-algorithms-course/)
 19. [Intro to Functional Programming (JavaScript, PureScript)](https://qvault.io/intro-to-functional-programming/)
@@ -54,9 +54,18 @@ The tech stack should be *fairly* lean. The goal of Qvault is to teach the *conc
 * Go
 * Python
 
+### Tracks
+
+In an effort to make Qvault's courses also useful in more bite-size chunks, we offer shorter "tracks" of courses for those who don't need a full CS program.
+
+* [Algorithms and Data Structures Track](ALGOS_DS_TRACK.md)
+* [Gopher Gang Track](GOPHER_GANG_TRACK.md)
+* [Front-end Web Track](FRONT_END_WEB_TRACK.md)
+* [Back-end Web Track](BACK_END_WEB_TRACK.md)
+
 ## 👏 Contribute
 
-I love help and feedback on how I can improve the curriculum! The recommended way to help is to submit issues here on Github. If you just want to talk about some ideas, use the discussions tab or contact me directly using one of the methods below.
+We love help and feedback on how we can improve the curriculum! The recommended way to help is to submit issues here on Github. If you just want to talk about some ideas, use the discussions tab or contact me directly using one of the methods below.
 
 ## 💬 Contact
 
