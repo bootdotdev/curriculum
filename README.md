@@ -65,7 +65,7 @@ In an effort to make Qvault's courses also useful in more bite-size chunks, we o
 
 ## 👏 Contribute
 
-We love help and feedback on how we can improve the curriculum! The recommended way to help is to submit issues here on Github. If you just want to talk about some ideas, use the discussions tab or contact me directly using one of the methods below.
+We love help and feedback on how we can improve the curriculum! The recommended way to help is to submit issues here on Github. If you just want to talk about some ideas, use the discussions tab or contact us directly using one of the methods below.
 
 ## 💬 Contact
 
