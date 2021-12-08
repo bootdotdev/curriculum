@@ -60,8 +60,6 @@ In an effort to make Qvault's courses also useful in more bite-size chunks, we o
 
 * [Algorithms and Data Structures Track](ALGOS_DS_TRACK.md)
 * [Gopher Gang Track](GOPHER_GANG_TRACK.md)
-* [Front-end Web Track](FRONT_END_WEB_TRACK.md)
-* [Back-end Web Track](BACK_END_WEB_TRACK.md)
 
 ## 👏 Contribute
 
