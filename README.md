@@ -70,4 +70,4 @@ We love help and feedback on how we can improve the curriculum! The recommended 
 If you would like to discuss the project feel free to [contact us at Qvault](https://qvault.io/contact/). We're most responsive on Discord, but you can also find us on Twitter.
 
 * [Twitter](https://twitter.com/q_vault)
-* [Discord](https://discord.com/invite/HxuxE6Nv)
+* [Discord](https://discord.gg/EEkFwbv)
