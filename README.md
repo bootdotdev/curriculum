@@ -83,13 +83,6 @@ The tech stack should be *fairly* lean. The goal of Boot.dev is to teach the *co
 * Go
 * Python
 
-### Tracks
-
-In an effort to make Boot.dev's courses also useful in more bite-size chunks, we offer shorter "tracks" of courses for those who don't need a full CS program.
-
-* [Algorithms and Data Structures Track](ALGOS_DS_TRACK.md)
-* [Gopher Gang Track](GOPHER_GANG_TRACK.md)
-
 ## 👏 Contribute
 
 We love help and feedback on how we can improve the curriculum! The recommended way to help is to submit issues here on Github. If you just want to talk about some ideas, use the discussions tab or contact us directly using one of the methods below.
