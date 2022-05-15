@@ -30,7 +30,7 @@ This is the roadmap for [Boot.dev's free-to-audit computer science program](http
 10. [Big-O Algorithms (Python)](https://boot.dev/course/884342fc-5469-47b4-8125-8bfc897428a8/67214b76-2e4b-4fc1-9610-2cf8c7c1c3a2/b6e716d2-df64-487e-aa7b-d768e8a2c8fc)
 11. [Big-O Data Structures (Python)](https://boot.dev/course/7bbb53ed-2106-4f6b-b885-e7645c2ff9d8/a9d59658-4e3c-441e-973b-147cc3c7e9de/666a9872-74d2-46d9-910a-63581b306302)
 12. [Advanced Algorithms (Python)](https://boot.dev/course/aaad49fb-0dc5-43c6-992c-96d3f83ee663/573c4cc4-f178-4465-bb76-5ee4718f12a6/dfef3058-b62d-4774-be32-80d933a0a766)
-13. Graphical Maze Solver Project (Python)
+13. [Graphical Maze Solver Project (Python)](https://boot.dev/project/2b266bb4-2262-49c0-b6d1-75cd8c5e8be8/5b463508-3371-4df9-8a5c-228431af21b9)
 14. Portfolio Project 1 (Your choice)
 
 ### 3. Backend development in Go
