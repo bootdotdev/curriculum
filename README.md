@@ -27,46 +27,46 @@ This is the roadmap for [Boot.dev's free-to-audit computer science program](http
 
 ### 2. Mastering algorithms with Python
 
-7. [Learn Python (Python)](https://boot.dev/learn/learn-python)
-8. [Learn Object-Oriented Programming (Python)](https://boot.dev/learn/learn-object-oriented-programming)
-9.  [SEO Link Analyzer (Python Project)](https://boot.dev/project/59fbb2aa-7d67-4e88-bac8-42f49798a9f5/4a7010c1-e7d3-4cc5-9b1b-d1f4e9f9ce81)
-10. [Learn Algorithms (Python)](https://boot.dev/learn/learn-algorithms)
-11. [Learn Data Structures (Python)](https://boot.dev/learn/learn-data-structures)
-12. [Learn Advanced Algorithms (Python)](https://boot.dev/learn/learn-advanced-algorithms)
-13. [Graphical Maze Solver Project (Python)](https://boot.dev/project/2b266bb4-2262-49c0-b6d1-75cd8c5e8be8/5b463508-3371-4df9-8a5c-228431af21b9)
-14. Portfolio Project 1 (Your choice)
+9. [Learn Python (Python)](https://boot.dev/learn/learn-python)
+10. [Learn Object-Oriented Programming (Python)](https://boot.dev/learn/learn-object-oriented-programming)
+11.  [SEO Link Analyzer (Python Project)](https://boot.dev/project/59fbb2aa-7d67-4e88-bac8-42f49798a9f5/4a7010c1-e7d3-4cc5-9b1b-d1f4e9f9ce81)
+12. [Learn Algorithms (Python)](https://boot.dev/learn/learn-algorithms)
+13. [Learn Data Structures (Python)](https://boot.dev/learn/learn-data-structures)
+14. [Learn Advanced Algorithms (Python)](https://boot.dev/learn/learn-advanced-algorithms)
+15. [Graphical Maze Solver Project (Python)](https://boot.dev/project/2b266bb4-2262-49c0-b6d1-75cd8c5e8be8/5b463508-3371-4df9-8a5c-228431af21b9)
+16. Portfolio Project 1 (Your choice)
 
 ### 3. Backend development in Go
 
-14. [Learn Go (Go)](https://boot.dev/learn/learn-golang)
-15. Networking Basics (Go)
-16. [Social Media Backend Server (Go Project)](https://boot.dev/project/709a2e74-eb45-46ea-ac26-4b8e6a3ce3e6/e367dd21-a96b-4f45-bccc-89349283c87c)
-17. Relational Databases (SQL)
-18. [Learn Go 2 (Go)](https://boot.dev/learn/learn-golang-2)
-19. Full Stack Web Application Project (JavaScript, Go)
-20. [Learn Cryptography (Go)](https://boot.dev/learn/learn-cryptography)
-21. Distributed Systems (Go)
-22. Portfolio Project 2 (Your choice)
+17. [Learn Go (Go)](https://boot.dev/learn/learn-golang)
+18. Networking Basics (Go)
+19. [Social Media Backend Server (Go Project)](https://boot.dev/project/709a2e74-eb45-46ea-ac26-4b8e6a3ce3e6/e367dd21-a96b-4f45-bccc-89349283c87c)
+20. Relational Databases (SQL)
+21. [Learn Go 2 (Go)](https://boot.dev/learn/learn-golang-2)
+22. Full Stack Web Application Project (JavaScript, Go)
+23. [Learn Cryptography (Go)](https://boot.dev/learn/learn-cryptography)
+24. Distributed Systems (Go)
+25. Portfolio Project 2 (Your choice)
 
 ### 4. Exploration of computer science
 
-23. [Learn Functional Programming (JavaScript, PureScript)](https://boot.dev/learn/learn-functional-programming)
-24. Computer Architecture and Hardware (WASM?)
-25. Compilers (???)
-26. Discrete Math for Programmers (Go)
-27. 3D Graphics (JavaScript, Canvas, WebGL)
-28. Computational Theory (???)
-29. Portfolio Project 3 (Your choice)
+26. [Learn Functional Programming (JavaScript, PureScript)](https://boot.dev/learn/learn-functional-programming)
+27. Computer Architecture and Hardware (WASM?)
+28. Compilers (???)
+29. Discrete Math for Programmers (Go)
+30. 3D Graphics (JavaScript, Canvas, WebGL)
+31. Computational Theory (???)
+32. Portfolio Project 3 (Your choice)
 
 ### 5. Artificial intelligence
 
-30.  Python Fundamentals 2 (Python)
-31.  Artificial Intelligence (Python)
-32.  Machine Learning (Python)
+33.  Python Fundamentals 2 (Python)
+34.  Artificial Intelligence (Python)
+35.  Machine Learning (Python)
 
 ### 6. Final capstone project
 
-33. Portfolio Project 4 (Your choice)
+36. Portfolio Project 4 (Your choice)
 
 ### 💡 Features and goals
 
