@@ -34,7 +34,7 @@ This is the roadmap for [Boot.dev's free-to-audit computer science program](http
 13. [Learn Data Structures (Python)](https://boot.dev/learn/learn-data-structures)
 14. [Learn Advanced Algorithms (Python)](https://boot.dev/learn/learn-advanced-algorithms)
 15. [Graphical Maze Solver Project (Python)](https://boot.dev/project/2b266bb4-2262-49c0-b6d1-75cd8c5e8be8/5b463508-3371-4df9-8a5c-228431af21b9)
-16. Portfolio Project 1 (Your choice)
+16. [Personal Project 1 (Your choice)](https://boot.dev/build/personal-project-1)
 
 ### 3. Backend development in Go
 
@@ -46,7 +46,7 @@ This is the roadmap for [Boot.dev's free-to-audit computer science program](http
 22. Full Stack Web Application Project (JavaScript, Go)
 23. [Learn Cryptography (Go)](https://boot.dev/learn/learn-cryptography)
 24. Distributed Systems (Go)
-25. Portfolio Project 2 (Your choice)
+25. [Personal Project 2 (Your choice)](https://boot.dev/build/personal-project-2)
 
 ### 4. Exploration of computer science
 
@@ -56,7 +56,7 @@ This is the roadmap for [Boot.dev's free-to-audit computer science program](http
 29. Discrete Math for Programmers (Go)
 30. 3D Graphics (JavaScript, Canvas, WebGL)
 31. Computational Theory (???)
-32. Portfolio Project 3 (Your choice)
+32. Personal Project 3 (Your choice)
 
 ### 5. Artificial intelligence
 
@@ -66,7 +66,7 @@ This is the roadmap for [Boot.dev's free-to-audit computer science program](http
 
 ### 6. Final capstone project
 
-36. Portfolio Project 4 (Your choice)
+36. [Capstone Project (Your choice)](https://boot.dev/build/capstone-project)
 
 ### 💡 Features and goals
 
