@@ -72,7 +72,7 @@ This is the roadmap for [Boot.dev's free-to-audit computer science program](http
 
 #### Hands-on, project based
 
-[We believe in learning by building](https://blog.boot.dev/about). We mix guided and unguided content. Every *guided course* is a collection of coding assignments and quizzes designed to teach a set of concepts. Every *unguided project* is blueprint for students to build entire applications on their local machines which teaches practicality.
+[We believe in learning by building](https://blog.boot.dev/about). We mix guided and unguided content. Every *guided course* is a collection of coding assignments and quizzes designed to teach a set of concepts. Every *unguided project* is a blueprint for students to build entire applications on their local machines which teaches practicality.
 
 #### Linear curriculum
 
