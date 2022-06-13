@@ -22,7 +22,7 @@ This is the roadmap for [Boot.dev's free-to-audit computer science program](http
 5. Build a local development environment (JavaScript, Node.js, Git, VS Code)
 6. Learn HTML and CSS
 7. Build a Website (HTML, CSS, JavaScript)
-8. Build a Front-end Web Application (HTML, CSS, JavaScript)
+8. Build and Deploy a Front-end Web App (HTML, CSS, JavaScript)
 
 ### 2. Mastering algorithms with Python
 
