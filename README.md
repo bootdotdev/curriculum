@@ -28,38 +28,38 @@ This is the roadmap for [Boot.dev's free-to-audit computer science program](http
 
 9. [Learn Python (Python)](https://boot.dev/learn/learn-python)
 10. [Learn Object-Oriented Programming (Python)](https://boot.dev/learn/learn-object-oriented-programming)
-11. [SEO Link Analyzer (Python Project)](https://boot.dev/project/59fbb2aa-7d67-4e88-bac8-42f49798a9f5/4a7010c1-e7d3-4cc5-9b1b-d1f4e9f9ce81)
+11. [Build an SEO Link Analyzer (Python)](https://boot.dev/project/59fbb2aa-7d67-4e88-bac8-42f49798a9f5/4a7010c1-e7d3-4cc5-9b1b-d1f4e9f9ce81)
 12. [Learn Algorithms (Python)](https://boot.dev/learn/learn-algorithms)
 13. [Learn Data Structures (Python)](https://boot.dev/learn/learn-data-structures)
 14. [Learn Advanced Algorithms (Python)](https://boot.dev/learn/learn-advanced-algorithms)
-15. [Graphical Maze Solver Project (Python)](https://boot.dev/project/2b266bb4-2262-49c0-b6d1-75cd8c5e8be8/5b463508-3371-4df9-8a5c-228431af21b9)
+15. [Build a Visual Maze Solver (Python)](https://boot.dev/project/2b266bb4-2262-49c0-b6d1-75cd8c5e8be8/5b463508-3371-4df9-8a5c-228431af21b9)
 16. [Personal Project 1 (Your choice)](https://boot.dev/build/personal-project-1)
 
 ### 3. Backend development in Go
 
 17. [Learn Go (Go)](https://boot.dev/learn/learn-golang)
 18. Learn Computer Networking (Go)
-19. [Social Media Backend Server (Go Project)](https://boot.dev/project/709a2e74-eb45-46ea-ac26-4b8e6a3ce3e6/e367dd21-a96b-4f45-bccc-89349283c87c)
+19. [Build a Social Media Backend (Go Project)](https://boot.dev/project/709a2e74-eb45-46ea-ac26-4b8e6a3ce3e6/e367dd21-a96b-4f45-bccc-89349283c87c)
 20. Learn Relational Databases (SQL)
 21. [Learn Go 2 (Go)](https://boot.dev/learn/learn-golang-2)
-22. Build a Full Stack Web Application (JavaScript, Go)
+22. Build a Full Stack Web App (JavaScript, Go)
 23. [Learn Cryptography (Go)](https://boot.dev/learn/learn-cryptography)
-24. Distributed Systems (Go)
-25. Deploy a Web Application (Github Actions, Netlify, GCP)
+24. Learn Distributed Systems (Go)
+25. Deploy a Full Stack Web App (Github Actions, Netlify, GCP)
 26. Learn NoSQL Databases (SQL)
 27. [Personal Project 2 (Your choice)](https://boot.dev/build/personal-project-2)
 
 ### 4. Exploration of Computer Science
 
-28. Discrete Math for Programmers (Go)
+28. Learn Discrete Math for Programmers (Go)
 29. [Learn Functional Programming (JavaScript, PureScript)](https://boot.dev/learn/learn-functional-programming)
-30. Computer Architecture and Hardware (ARM)
-31. Compilers (Go)
-32. Computational Theory (???)
-33. 3D Graphics (JavaScript, Canvas, WebGL)
-34. Python Fundamentals 2 (Python)
-35. Artificial Intelligence (Python)
-36. Machine Learning (Python)
+30. Learn Computer Architecture and Hardware (ARM)
+31. Learn Compilers (Go)
+32. Learn Computational Theory (???)
+33. Learn 3D Graphics (JavaScript, Canvas, WebGL)
+34. Learn Python 2 (Python)
+35. Learn Artificial Intelligence (Python)
+36. Learn Machine Learning (Python)
 37. Personal Project 3 (Your choice)
 
 ### 5. Final capstone project
