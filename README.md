@@ -60,7 +60,8 @@ This is the roadmap for [Boot.dev's free-to-audit computer science program](http
 34. Learn Python 2 (Python)
 35. Learn Artificial Intelligence (Python)
 36. Learn Machine Learning (Python)
-37. Personal Project 3 (Your choice)
+37. Learn Operating Systems and Kernels (???)
+38. Personal Project 3 (Your choice) 
 
 ### 5. Final capstone project
 
