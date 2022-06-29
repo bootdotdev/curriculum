@@ -65,7 +65,7 @@ This is the roadmap for [Boot.dev's free-to-audit computer science program](http
 
 ### 5. Final capstone project
 
-38. [Capstone Project (Your choice)](https://boot.dev/build/capstone-project)
+39. [Capstone Project (Your choice)](https://boot.dev/build/capstone-project)
 
 ### 💡 Features and goals
 
