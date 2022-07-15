@@ -18,7 +18,7 @@ This is the roadmap for [Boot.dev's free-to-audit computer science program](http
 1. [Learn to Code in JavaScript (JavaScript)](https://boot.dev/learn/learn-code-javascript)
 2. [Learn to Code in JavaScript 2 (JavaScript)](https://boot.dev/learn/learn-code-javascript-2)
 3. [Learn Graphics in HTML5 Canvas (JavaScript)](https://boot.dev/learn/learn-graphics-html5-canvas)
-4. Learn HTTP (JavaScript)
+4. [Learn HTTP (JavaScript)](https://boot.dev/learn/learn-http)
 5. Build a local development environment (JavaScript, Node.js, Git, VS Code)
 6. Learn HTML and CSS
 7. Build a Website (HTML, CSS, JavaScript)
