@@ -2,7 +2,7 @@
   <img width="128" src="logo.png">
 </p>
 
-# Boot.dev's computer science curriculum for backend engineers
+# Boot.dev's Computer Science Curriculum for Backend Developers
 
 ⭐ Hit the project with a star if you find it useful! ⭐
 
@@ -12,7 +12,7 @@ This is the roadmap for [Boot.dev's free-to-audit computer science program for b
 
 ### Where is the HTML, CSS & React?
 
-**This is not a front-end program.** That said, we've had front-end engineers who still complete the courses and projects for the computer science content. However, we have no immediate plans for front-end technologies in this curriculum.
+**This is not a front-end program.** That said, we've had front-end engineers who still complete the courses and projects for the sake of learning the computer science content. However, we have no immediate plans for front-end technologies in this curriculum.
 
 ### Can I skip ahead?
 
@@ -32,7 +32,7 @@ This is the roadmap for [Boot.dev's free-to-audit computer science program for b
 
 ### Is Boot.dev free?
 
-The first two chapters of every course are free. After that, it's only free to read, and we call this read-only mode "sandbox mode". In sandbox mode, you won't be able to pass off assignments without [becoming a patron](https://boot.dev/pricing).
+The first two chapters of every course are free. After that, it's only free to read, and we call this read-only mode "sandbox mode". In sandbox mode, you won't be able to pass off assignments without [becoming a patron](https://boot.dev/pricing) in order to support development.
 
 ## The Roadmap of Courses and Projects
 
