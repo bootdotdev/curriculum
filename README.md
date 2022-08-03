@@ -24,7 +24,7 @@ This is the roadmap for [Boot.dev's free-to-audit computer science program for b
 
 ### Should I get started even though the program is not "complete"?
 
-**Yes you should get started.** This curriculum will never be complete - we will always be improving and addting to it. This document is intended to show our future plans so that you can know how we care deeply about the quality of the program and will always be improving it.
+**Yes you should get started.** This curriculum will never be "complete" in the same sense the YouTube will never be "complete" - there is new content daily. We care deeply about the quality of this program and will always be improving and adding to it.
 
 ### Will Boot.dev help my find my first job?
 
