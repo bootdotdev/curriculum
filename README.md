@@ -41,7 +41,7 @@ The first two chapters of every course are free. After that, it's only free to r
 * [Learn to Code in JavaScript (JavaScript)](https://boot.dev/learn/learn-code-javascript)
 * [Learn HTTP (JavaScript)](https://boot.dev/learn/learn-http)
 * [Learn Graphics in HTML5 Canvas (JavaScript)](https://boot.dev/learn/learn-graphics-html5-canvas)
-* Build a local development environment (JavaScript, Node.js, Git, VS Code)
+* Build a Local Dev Environment (JavaScript, Node.js, Git, VS Code)
 
 ### 2. Mastering algorithms in Python
 
