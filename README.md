@@ -2,7 +2,7 @@
   <img width="128" src="logo.png">
 </p>
 
-# Boot.dev's computer science curriculum
+# Boot.dev's computer science curriculum for backend engineers
 
 This is the roadmap for [Boot.dev's free-to-audit computer science program](https://boot.dev). 
 
