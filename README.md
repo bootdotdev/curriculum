@@ -36,23 +36,25 @@ The first two chapters of every course are free. After that, it's only free to r
 
 ## The Roadmap of Courses and Projects
 
-### 1. Understanding how the front-end interacts with the backend in JS
+**IMPORTANT NOTE: We are in the middle of some big changes to the order of the curriculum at the moment. The new curriculum starts with Python instead of JavaScript. This allows us to teach some more advanced JS concepts, but also makes the beginning of the program smoother and easier for students. The change should be done within the week.**
 
-* [Learn to Code in JavaScript (JavaScript)](https://boot.dev/learn/learn-code-javascript)
-* [Learn HTTP (JavaScript)](https://boot.dev/learn/learn-http)
-* [Learn Graphics in HTML5 Canvas (JavaScript)](https://boot.dev/learn/learn-graphics-html5-canvas)
-* Build a Local Dev Environment (JavaScript, Node.js, Git, VS Code)
-
-### 2. Mastering algorithms in Python
+### 1. Programming and CS fundamentals in Python
 
 * [Learn Python (Python)](https://boot.dev/learn/learn-python)
 * [Learn Object-Oriented Programming (Python)](https://boot.dev/learn/learn-object-oriented-programming)
-* [Build an SEO Link Analyzer (Python)](https://boot.dev/project/59fbb2aa-7d67-4e88-bac8-42f49798a9f5/4a7010c1-e7d3-4cc5-9b1b-d1f4e9f9ce81)
+* Build a Local Dev Environment (Python, Git, VS Code)
 * [Learn Algorithms (Python)](https://boot.dev/learn/learn-algorithms)
 * [Learn Data Structures (Python)](https://boot.dev/learn/learn-data-structures)
-* [Learn Advanced Algorithms (Python)](https://boot.dev/learn/learn-advanced-algorithms)
-* [Build a Visual Maze Solver (Python)](https://boot.dev/project/2b266bb4-2262-49c0-b6d1-75cd8c5e8be8/5b463508-3371-4df9-8a5c-228431af21b9)
+* [Build a Maze Solver (Python)](https://boot.dev/project/2b266bb4-2262-49c0-b6d1-75cd8c5e8be8/5b463508-3371-4df9-8a5c-228431af21b9)
 * [Personal Project 1 (Your choice)](https://boot.dev/build/personal-project-1)
+
+### 1. Understanding the web in JS
+
+* [Learn JavaScript (JavaScript)](https://boot.dev/learn/learn-code-javascript)
+* [Learn HTTP (JavaScript)](https://boot.dev/learn/learn-http)
+* [Build an SEO Link Analyzer (JavaScript)](https://boot.dev/project/59fbb2aa-7d67-4e88-bac8-42f49798a9f5/4a7010c1-e7d3-4cc5-9b1b-d1f4e9f9ce81)
+* [Learn Functional Programming (JavaScript, PureScript)](https://boot.dev/learn/learn-functional-programming)
+* [Personal Project 2 (Your choice)](https://boot.dev/build/personal-project-2)
 
 ### 3. Backend web development in Go
 
@@ -61,34 +63,37 @@ The first two chapters of every course are free. After that, it's only free to r
 * [Build a Social Media Backend (Go Project)](https://boot.dev/project/709a2e74-eb45-46ea-ac26-4b8e6a3ce3e6/e367dd21-a96b-4f45-bccc-89349283c87c)
 * Learn SQL (SQL)
 * [Learn Cryptography (Go)](https://boot.dev/learn/learn-cryptography)
-* Enhance your Social Media Backend (JavaScript, Go)
+* Enhance your Social Media Backend (SQL, Go)
 * Learn Distributed Systems (Go)
 * Learn NoSQL Databases (???)
-* [Personal Project 2 (Your choice)](https://boot.dev/build/personal-project-2)
+* Personal Project 3 (Your choice)
 
-### 4. Devops Skills
+### 4. DevOps Skills
 
 * Learn Infrastructure as Code (Terraform)
 * Containerize your Social Media Backend (Docker & Kubernetes)
 * Learn CI/CD (GitHub Actions)
 * Deploy your Social Media Backend
 
-### 5. Exploration of computer science
+### 5. Advanced computer science
 
+* [Learn Advanced Algorithms (Python)](https://boot.dev/learn/learn-advanced-algorithms)
 * Learn Clean Code (Go)
 * Learn Computer Architecture and Hardware (ARM)
-* Learn Compilers (Go)
-* [Learn Functional Programming (JavaScript, PureScript)](https://boot.dev/learn/learn-functional-programming)
 * Learn Discrete Math for Programmers (Go)
-* Learn Computational Theory (???)
-* Learn Python 2 (Python)
-* Learn Artificial Intelligence (Python)
-* Learn Machine Learning (Python)
-* Learn Operating Systems Theory (???)
+* Learn Operating Systems (???)
 
 ### 5. Final capstone project
 
 * [Capstone Project (Your choice)](https://boot.dev/build/capstone-project)
+
+### 6. Continued learning
+
+* [Learn Graphics in HTML5 Canvas (JavaScript)](https://boot.dev/learn/learn-graphics-html5-canvas)
+* Learn Compilers (Go)
+* Learn Computational Theory (???)
+* Learn Artificial Intelligence (Python)
+* Learn Machine Learning (Python)
 
 ### 💡 Features and goals
 
