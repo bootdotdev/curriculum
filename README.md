@@ -83,11 +83,11 @@ The first two chapters of every course are free. After that, it's only free to r
 * Learn Discrete Math for Programmers (Go)
 * Learn Operating Systems (???)
 
-### 5. Final capstone project
+### 6. Final capstone project
 
 * [Capstone Project (Your choice)](https://boot.dev/build/capstone-project)
 
-### 6. Continued learning
+### 7. Continued learning
 
 * [Learn Graphics in HTML5 Canvas (JavaScript)](https://boot.dev/learn/learn-graphics-html5-canvas)
 * Learn Compilers (Go)
