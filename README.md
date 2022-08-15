@@ -48,7 +48,7 @@ The first two chapters of every course are free. After that, it's only free to r
 * [Build a Maze Solver (Python)](https://boot.dev/project/2b266bb4-2262-49c0-b6d1-75cd8c5e8be8/5b463508-3371-4df9-8a5c-228431af21b9)
 * [Personal Project 1 (Your choice)](https://boot.dev/build/personal-project-1)
 
-### 1. Understanding the web in JS
+### 2. Understanding the web in JS
 
 * [Learn JavaScript (JavaScript)](https://boot.dev/learn/learn-code-javascript)
 * [Learn HTTP (JavaScript)](https://boot.dev/learn/learn-http)
