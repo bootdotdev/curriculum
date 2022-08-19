@@ -36,8 +36,6 @@ The first two chapters of every course are free. After that, it's only free to r
 
 ## The Roadmap of Courses and Projects
 
-**IMPORTANT NOTE: We are in the middle of some big changes to the order of the curriculum at the moment. The new curriculum starts with Python instead of JavaScript. This allows us to teach some more advanced JS concepts, but also makes the beginning of the program smoother and easier for students. The change should be done within the week.**
-
 ### 1. Programming and CS fundamentals in Python
 
 * [Learn Python (Python)](https://boot.dev/learn/learn-python)
@@ -52,7 +50,7 @@ The first two chapters of every course are free. After that, it's only free to r
 
 * [Learn JavaScript (JavaScript)](https://boot.dev/learn/learn-code-javascript)
 * [Learn HTTP (JavaScript)](https://boot.dev/learn/learn-http)
-* [Build an SEO Link Analyzer (JavaScript)](https://boot.dev/project/59fbb2aa-7d67-4e88-bac8-42f49798a9f5/4a7010c1-e7d3-4cc5-9b1b-d1f4e9f9ce81)
+* [Build an SEO Link Analyzer (Python, soon to be JS)](https://boot.dev/project/59fbb2aa-7d67-4e88-bac8-42f49798a9f5/4a7010c1-e7d3-4cc5-9b1b-d1f4e9f9ce81)
 * [Learn Functional Programming (JavaScript, PureScript)](https://boot.dev/learn/learn-functional-programming)
 * [Personal Project 2 (Your choice)](https://boot.dev/build/personal-project-2)
 
