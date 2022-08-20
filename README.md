@@ -50,7 +50,7 @@ The first two chapters of every course are free. After that, it's only free to r
 
 * [Learn JavaScript (JavaScript)](https://boot.dev/learn/learn-javascript)
 * [Learn HTTP (JavaScript)](https://boot.dev/learn/learn-http)
-* [Build an SEO Link Analyzer (Python, soon to be JS)](https://boot.dev/project/59fbb2aa-7d67-4e88-bac8-42f49798a9f5/4a7010c1-e7d3-4cc5-9b1b-d1f4e9f9ce81)
+* [Build an SEO Link Analyzer (JavaScript, Node.js)](https://boot.dev/project/59fbb2aa-7d67-4e88-bac8-42f49798a9f5/4a7010c1-e7d3-4cc5-9b1b-d1f4e9f9ce81)
 * [Learn Functional Programming (JavaScript, PureScript)](https://boot.dev/learn/learn-functional-programming)
 * [Personal Project 2 (Your choice)](https://boot.dev/build/personal-project-2)
 
