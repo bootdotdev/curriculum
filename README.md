@@ -43,14 +43,14 @@ The first two chapters of every course are free. After that, it's only free to r
 * Build a Local Dev Environment (Python, Git, VS Code)
 * [Learn Algorithms (Python)](https://boot.dev/learn/learn-algorithms)
 * [Learn Data Structures (Python)](https://boot.dev/learn/learn-data-structures)
-* [Build a Maze Solver (Python)](https://boot.dev/project/2b266bb4-2262-49c0-b6d1-75cd8c5e8be8/5b463508-3371-4df9-8a5c-228431af21b9)
+* [Build a Maze Solver (Python)](https://boot.dev/build/maze-solver-python)
 * [Personal Project 1 (Your choice)](https://boot.dev/build/personal-project-1)
 
 ### 2. Understanding the web in JS
 
 * [Learn JavaScript (JavaScript)](https://boot.dev/learn/learn-javascript)
 * [Learn HTTP (JavaScript)](https://boot.dev/learn/learn-http)
-* [Build an SEO Link Analyzer (JavaScript, Node.js)](https://boot.dev/project/59fbb2aa-7d67-4e88-bac8-42f49798a9f5/4a7010c1-e7d3-4cc5-9b1b-d1f4e9f9ce81)
+* [Build an SEO Link Analyzer (JavaScript, Node.js)](https://boot.dev/build/link-analyzer)
 * [Learn Functional Programming (JavaScript, PureScript)](https://boot.dev/learn/learn-functional-programming)
 * [Personal Project 2 (Your choice)](https://boot.dev/build/personal-project-2)
 
@@ -58,7 +58,7 @@ The first two chapters of every course are free. After that, it's only free to r
 
 * [Learn Go (Go)](https://boot.dev/learn/learn-golang)
 * Learn Computer Networking (Go)
-* [Build a Social Media Backend (Go Project)](https://boot.dev/project/709a2e74-eb45-46ea-ac26-4b8e6a3ce3e6/e367dd21-a96b-4f45-bccc-89349283c87c)
+* [Build a Social Media Backend (Go Project)](https://boot.dev/build/social-media-backend-golang)
 * Learn SQL (SQL)
 * [Learn Cryptography (Go)](https://boot.dev/learn/learn-cryptography)
 * Enhance your Social Media Backend (SQL, Go)
