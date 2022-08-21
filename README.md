@@ -16,7 +16,7 @@ This is a living roadmap for [Boot.dev's free-to-audit computer science program 
 
 ### Can I skip ahead?
 
-**You shouldn't skip ahead unless you really know what you are doing**. Some people are compfortable skipping the first course, "Learn Python" because it is for beginners. Almost nothing else should be skipped because the rest of the content builds upon itself.
+**You shouldn't skip ahead unless you really know what you are doing**. Some people are comfortable skipping the first course, "Learn Python" because it is for beginners. Almost nothing else should be skipped because the rest of the content builds upon itself.
 
 ### Do I need to do the courses in Python, JavaScript and Go?
 
