@@ -26,7 +26,7 @@ For now, yes. **Learning several programming languages is critical to your succe
 
 **Yes you should get started - this programin will always be improving and never be "complete".** This curriculum will never be "complete" in the same sense the YouTube will never be "complete" - there is new content all the time. We care deeply about the quality of this program and will always be improving and adding to it.
 
-### Will Boot.dev help my find my first job?
+### Will Boot.dev help me find my first job?
 
 **We help you prepare for your first development job, but we won't match you with a company**. We go one step further than universities. We provide education that teaches you how to become a backend developer and education about how to find a job. That said, we don't actually do the "finding" for you.
 
