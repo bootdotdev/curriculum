@@ -36,7 +36,7 @@ The first two chapters of every course are completely free. After that, it's onl
 
 ## The Roadmap of Courses and Projects
 
-### 1. Programming and CS fundamentals in Python
+### 1. Learn programming and CS basics
 
 * [Learn Python (Python)](https://boot.dev/learn/learn-python)
 * [Learn Object-Oriented Programming (Python)](https://boot.dev/learn/learn-object-oriented-programming)
@@ -46,7 +46,7 @@ The first two chapters of every course are completely free. After that, it's onl
 * [Build a Maze Solver (Python)](https://boot.dev/build/maze-solver-python)
 * [Personal Project 1 (Your choice)](https://boot.dev/build/personal-project-1)
 
-### 2. Understanding the web in JS
+### 2. Learn web basics
 
 * [Learn JavaScript (JavaScript)](https://boot.dev/learn/learn-javascript)
 * [Learn HTTP (JavaScript)](https://boot.dev/learn/learn-http)
@@ -54,7 +54,7 @@ The first two chapters of every course are completely free. After that, it's onl
 * [Learn Functional Programming (JavaScript, PureScript)](https://boot.dev/learn/learn-functional-programming)
 * [Personal Project 2 (Your choice)](https://boot.dev/build/personal-project-2)
 
-### 3. Backend web development in Go
+### 3. Laern backend web development
 
 * [Learn Go (Go)](https://boot.dev/learn/learn-golang)
 * Learn Computer Networking (Go)
@@ -64,16 +64,18 @@ The first two chapters of every course are completely free. After that, it's onl
 * Enhance your Social Media Backend (SQL, Go)
 * Learn Distributed Systems (Go)
 * Learn NoSQL Databases (???)
+* Learn Performance Engineering (Go)
 * Personal Project 3 (Your choice)
 
-### 4. DevOps Skills
+### 4. Learn DevOps
 
 * Learn Infrastructure as Code (Terraform)
 * Containerize your Social Media Backend (Docker & Kubernetes)
 * Learn CI/CD (GitHub Actions)
 * Deploy your Social Media Backend
+* Learn Logging and Telemetry (Go)
 
-### 5. Advanced computer science
+### 5. Learn advanced computer science
 
 * [Learn Advanced Algorithms (Python)](https://boot.dev/learn/learn-advanced-algorithms)
 * Learn Clean Code (Go)
