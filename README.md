@@ -53,7 +53,7 @@ The first two chapters of every course are completely free, and the entire curri
 * [Learn Functional Programming (JavaScript, PureScript)](https://boot.dev/learn/learn-functional-programming)
 * [Personal Project 2 (Your choice)](https://boot.dev/build/personal-project-2)
 
-### 3. Laern backend web development
+### 3. Learn backend web development
 
 * [Learn Go (Go)](https://boot.dev/learn/learn-golang)
 * Learn Computer Networking (Go)
