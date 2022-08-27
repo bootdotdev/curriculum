@@ -12,7 +12,7 @@ This is a living roadmap for [Boot.dev's free-to-audit computer science program 
 
 ### Where is the HTML, CSS & React?
 
-**This is not a front-end program.** That said, we've had front-end engineers who still complete soem of the courses and projects for the sake of learning the computer science content. We have no immediate plans for purely front-end technologies in this curriculum.
+**This is not a front-end program.** That said, we've had front-end engineers who still complete some of the courses and projects for the sake of learning the computer science content. We have no immediate plans for purely front-end technologies in this curriculum.
 
 ### Can I skip ahead?
 
