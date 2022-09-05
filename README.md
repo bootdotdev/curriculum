@@ -8,31 +8,6 @@
 
 This is a living roadmap for [Boot.dev's free-to-audit computer science program for backend developers.](https://boot.dev)
 
-## FAQ
-
-### Where is the HTML, CSS & React?
-
-**This is not a front-end program.** That said, we've had front-end engineers who still complete soem of the courses and projects for the sake of learning the computer science content. We have no immediate plans for purely front-end technologies in this curriculum.
-
-### Can I skip ahead?
-
-**You shouldn't skip ahead unless you really know what you are doing**. Some people are comfortable skipping the first course, "Learn Python" because it is for beginners. Almost nothing else should be skipped because the rest of the content builds upon itself.
-
-### Do I need to take the courses in the Python, JavaScript and Go languages?
-
-For now, yes. **Learning several programming languages is critical to your success.** It's not nearly as hard to pick up a second programming language after you're familiar with your first one, yet it offers many benefits. You can [read more here](https://blog.boot.dev/education/learn-multiple-programming-languages) if you're skeptical.
-
-### Should I get started even though the program is not "complete"?
-
-**Yes you should get started - this program will always be improving and never be "complete".** This curriculum will never be "complete" in the same sense the YouTube will never be "complete" - there is new content all the time. We care deeply about the quality of this program and will always be improving and adding to it.
-
-### Will Boot.dev help me find my first job?
-
-**We help you prepare for your first development job, but we won't match you with a company**. We go one step further than universities. We provide education that teaches you how to become a backend developer and education about how to find a job. That said, we don't actually do the "finding" for you.
-
-### Is Boot.dev free?
-
-The first two chapters of every course are completely free, and the entire curriculum is free to *read*. We call this read-only mode "sandbox mode". In sandbox mode, you won't be able to pass off assignments without [becoming a patron](https://boot.dev/pricing) to support ongoing development.
 ## The Roadmap of Courses and Projects
 
 ### 1. Learn programming and CS basics
@@ -94,23 +69,28 @@ The first two chapters of every course are completely free, and the entire curri
 * Learn Artificial Intelligence (Python)
 * Learn Machine Learning (Python)
 
-### 💡 Features and goals
+## 💡 Features and goals
 
-#### Hands-on, project based
+### Hands-on, project based
 
 [We believe in learning by building](https://blog.boot.dev/about). We mix guided and unguided content. Every *guided course* is a collection of coding assignments and quizzes designed to teach a set of concepts. Every *unguided project* is a blueprint for students to build an entire application on their local machines.
 
-#### Linear curriculum
+### Linear curriculum
 
 The majority of students should have a *simple and straight* path to completion, without needing to make many choices about which courses to take next.
 
-#### Modern tech stack
+### Modern tech stack
 
 The tech stack should be *fairly* lean. The goal of Boot.dev is to teach the *concepts* of CS without *forcing* students to learn too many languages, frameworks and tools. For this reason, the primary languages of Boot.dev are currently:
 
 * Python
 * JavaScript
 * Go
+
+### Should I get started even though the program is not "complete"?
+
+**Yes you should get started - this program will always be improving and never be "complete".** This curriculum will never be "complete" in the same sense the YouTube will never be "complete" - there is new content all the time. We care deeply about the quality of this program and will always be improving and adding to it.
+
 
 ## 👏 Contribute
 
