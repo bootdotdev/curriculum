@@ -33,7 +33,7 @@ This is a living roadmap for [Boot.dev's free-to-audit computer science program 
 * [Learn Go (Go)](https://boot.dev/learn/learn-golang)
 * Learn Computer Networking (Go)
 * [Build a Social Media Backend (Go Project)](https://boot.dev/build/social-media-backend-golang)
-* Learn SQL (SQL)
+* [Learn SQL (SQL)](https://boot.dev/learn/learn-sql)
 * [Learn Cryptography (Go)](https://boot.dev/learn/learn-cryptography)
 * Enhance your Social Media Backend (SQL, Go)
 * Learn Distributed Systems (Go)
