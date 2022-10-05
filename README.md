@@ -14,7 +14,7 @@ This is a living roadmap for [Boot.dev's free-to-audit computer science program 
 
 * [Learn Python (Python)](https://boot.dev/learn/learn-python)
 * [Learn Object-Oriented Programming (Python)](https://boot.dev/learn/learn-object-oriented-programming)
-* Build a Local Dev Environment (Python, Git, VS Code)
+* [Build a Local Dev Environment (Python, Git, VS Code)](https://boot.dev/build/build-local-dev-environment-python)
 * [Learn Algorithms (Python)](https://boot.dev/learn/learn-algorithms)
 * [Learn Data Structures (Python)](https://boot.dev/learn/learn-data-structures)
 * [Build a Maze Solver (Python)](https://boot.dev/build/maze-solver-python)
