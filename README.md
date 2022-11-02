@@ -43,8 +43,9 @@ This is a living roadmap for [Boot.dev's free-to-audit computer science program 
 
 ### 4. Learn DevOps
 
+* Learn Docker (Docker & Docker Compose)
 * Learn Infrastructure as Code (Terraform)
-* Containerize your Social Media Backend (Docker & Kubernetes)
+* Learn Kubernetes (Kubernetes)
 * Learn CI/CD (GitHub Actions)
 * Deploy your Social Media Backend
 * Learn Logging and Telemetry (Go)
