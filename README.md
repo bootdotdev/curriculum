@@ -43,7 +43,7 @@ This is a living roadmap for [Boot.dev's free-to-audit computer science program 
 
 ### 4. Learn DevOps
 
-* Learn Docker (Docker CLI)
+* [Learn Docker (Docker CLI)](https://boot.dev/learn/learn-docker)
 * Learn Kubernetes (Kubernetes)
 * Learn CI/CD (GitHub Actions)
 * Learn Infrastructure as Code (Terraform)
