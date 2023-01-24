@@ -1,8 +1,4 @@
-<p align="center">
-  <img width="128" src="logo.png">
-</p>
-
-# Boot.dev's Computer Science Curriculum for Backend Developers
+# Boot.dev's Backend Developer Learning Path
 
 ⭐ Hit the project with a star if you find it useful! ⭐
 
