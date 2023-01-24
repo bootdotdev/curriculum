@@ -20,7 +20,7 @@ This is a living roadmap for [Boot.dev's free-to-audit computer science program 
 
 * [Learn JavaScript (JavaScript)](https://boot.dev/learn/learn-javascript)
 * [Learn HTTP (JavaScript)](https://boot.dev/learn/learn-http)
-* [Build an SEO Link Analyzer (JavaScript, Node.js)](https://boot.dev/build/link-analyzer)
+* [Build a Web Crawler (JavaScript, Node.js)](https://boot.dev/build/link-analyzer)
 * [Learn Functional Programming (JavaScript, PureScript)](https://boot.dev/learn/learn-functional-programming)
 * [Personal Project 2 (Your choice)](https://boot.dev/build/personal-project-2)
 
