@@ -27,6 +27,7 @@ This is a living roadmap for [Boot.dev's free-to-audit computer science program 
 ### 3. Learn backend web development
 
 * [Learn Go (Go)](https://boot.dev/learn/learn-golang)
+* Build a Command Line Pokedex
 * Learn Computer Networking (Go)
 * [Build a Social Media Backend (Go Project)](https://boot.dev/build/social-media-backend-golang)
 * [Learn SQL (SQL)](https://boot.dev/learn/learn-sql)
