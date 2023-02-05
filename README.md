@@ -19,7 +19,7 @@ This is a living roadmap for [Boot.dev's free-to-audit computer science program 
 * [Learn Functional Programming (JavaScript, PureScript)](https://boot.dev/learn/learn-functional-programming)
 * [Personal Project 2 (Your choice)](https://boot.dev/build/personal-project-2)
 * [Learn Go (Go)](https://boot.dev/learn/learn-golang)
-* Build a Pokedex on the Command Line (Go)
+* [Build a Pokedex on the Command Line (Go)](https://boot.dev/build/build-pokedex-cli)
 * [Learn SQL (SQL)](https://boot.dev/learn/learn-sql)
 * [Learn Cryptography (Go)](https://boot.dev/learn/learn-cryptography)
 * [Learn Docker (Docker CLI)](https://boot.dev/learn/learn-docker)
