@@ -19,10 +19,11 @@ This is a living roadmap for [Boot.dev's free-to-audit computer science program 
 * [Personal Project 2 (Your choice)](https://boot.dev/build/personal-project-2)
 * [Learn Go (Go)](https://boot.dev/learn/learn-golang)
 * [Build a Pokedex on the Command Line (Go)](https://boot.dev/build/build-pokedex-cli)
-* Learn Servers (Go)
+* Learn Web Servers (Go)
 * [Learn SQL (SQL)](https://boot.dev/learn/learn-sql)
 * [Build a Social Media Backend (Go)](https://boot.dev/build/social-media-backend-golang)
 * [Learn Docker (Docker CLI)](https://boot.dev/learn/learn-docker)
+* Learn Web Services (Go)
 * [Capstone Project (Your choice)](https://boot.dev/build/capstone-project)
 
 ### Going Deeper
@@ -30,9 +31,9 @@ This is a living roadmap for [Boot.dev's free-to-audit computer science program 
 * [Learn Functional Programming (JavaScript, PureScript)](https://boot.dev/learn/learn-functional-programming)
 * [Learn Advanced Algorithms (Python)](https://boot.dev/learn/learn-advanced-algorithms)
 * [Learn Cryptography (Go)](https://boot.dev/learn/learn-cryptography)
+* Learn Distributed Systems (Go)
 * Learn PubSub Architectures (Go)
 * Learn Computer Networking (Go)
-* Learn Distributed Systems (Go)
 * Learn NoSQL Databases (???)
 * Learn Performance Engineering (Go)
 * Personal Project 3 (Your choice)
