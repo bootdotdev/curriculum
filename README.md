@@ -19,7 +19,7 @@ This is a living roadmap for [Boot.dev's free-to-audit computer science program 
 * [Personal Project 2 (Your choice)](https://boot.dev/build/personal-project-2)
 * [Learn Go (Go)](https://boot.dev/learn/learn-golang)
 * [Build a Pokedex on the Command Line (Go)](https://boot.dev/build/build-pokedex-cli)
-* Learn Back-end Servers (Go)
+* Learn Servers (Go)
 * [Learn SQL (SQL)](https://boot.dev/learn/learn-sql)
 * [Build a Social Media Backend (Go)](https://boot.dev/build/social-media-backend-golang)
 * [Learn Docker (Docker CLI)](https://boot.dev/learn/learn-docker)
