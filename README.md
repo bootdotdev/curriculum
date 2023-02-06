@@ -30,6 +30,7 @@ This is a living roadmap for [Boot.dev's free-to-audit computer science program 
 * [Learn Functional Programming (JavaScript, PureScript)](https://boot.dev/learn/learn-functional-programming)
 * [Learn Advanced Algorithms (Python)](https://boot.dev/learn/learn-advanced-algorithms)
 * [Learn Cryptography (Go)](https://boot.dev/learn/learn-cryptography)
+* Learn PubSub Architectures (Go)
 * Learn Computer Networking (Go)
 * Learn Distributed Systems (Go)
 * Learn NoSQL Databases (???)
