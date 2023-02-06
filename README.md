@@ -28,6 +28,7 @@ This is a living roadmap for [Boot.dev's free-to-audit computer science program 
 ### Going Deeper
 
 * [Learn Functional Programming (JavaScript, PureScript)](https://boot.dev/learn/learn-functional-programming)
+* [Learn Advanced Algorithms (Python)](https://boot.dev/learn/learn-advanced-algorithms)
 * [Learn Cryptography (Go)](https://boot.dev/learn/learn-cryptography)
 * Learn Computer Networking (Go)
 * Learn Distributed Systems (Go)
@@ -37,9 +38,7 @@ This is a living roadmap for [Boot.dev's free-to-audit computer science program 
 * Learn Kubernetes (Kubernetes)
 * Learn CI/CD (GitHub Actions)
 * Learn Infrastructure as Code (Terraform)
-* Deploy your Social Media Backend
 * Learn Logging and Telemetry (Go)
-* [Learn Advanced Algorithms (Python)](https://boot.dev/learn/learn-advanced-algorithms)
 * Learn Clean Code (Go)
 * Learn Computer Architecture and Hardware (ARM)
 * Learn Discrete Math for Programmers (Go)
