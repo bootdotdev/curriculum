@@ -36,7 +36,6 @@ This is a living roadmap for [Boot.dev's free-to-audit computer science program 
 * Learn Computer Networking (Go)
 * Learn NoSQL Databases (???)
 * Learn Performance Engineering (Go)
-* Personal Project 3 (Your choice)
 * Learn Kubernetes (Kubernetes)
 * Learn CI/CD (GitHub Actions)
 * Learn Infrastructure as Code (Terraform)
