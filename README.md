@@ -50,32 +50,27 @@ This is a living roadmap for [Boot.dev's free-to-audit computer science program 
 * Learn Artificial Intelligence (Python)
 * Learn Machine Learning (Python)
 
-## 💡 Features and goals
+## Philosophy
 
-### Hands-on, project-based
+*You can read about our [approach to learning here](https://blog.boot.dev/about/), but in a nutshell we believe:
 
-[We believe in learning by building](https://blog.boot.dev/about). We mix guided and unguided content. Every *guided course* is a collection of coding assignments and quizzes designed to teach a set of concepts. Every *unguided project* is a blueprint for students to build an entire application on their local machines.
+1. Coding is fun, don’t make it dull
+2. Computer science matters, degrees don’t
+3. You need to build
+4. You need to deploy
+5. It’s hard to find good resources, so cherish the ones you find
+6. Learning to code is a depth-first algorithm
+7. Learning to code is a marathon, not a sprint
+8. You should be uncomfortable, you'll learn faster if you're pushing yourself
+9. Get an on-site, full-time job for yhour first job if possible
 
-### Linear curriculum
-
-The majority of students should have a *simple and straight* path to completion, without needing to make many choices about which courses to take next.
-
-### Modern tech stack
-
-The tech stack should be *fairly* lean. The goal of Boot.dev is to teach the *concepts* of CS without *forcing* students to learn too many languages, frameworks and tools. For this reason, the primary languages of Boot.dev are currently:
-
-* Python
-* JavaScript
-* Go
-
-### Should I get started even though the program is not "complete"?
+## Should I start learning even though the program is not "complete"?
 
 **Yes you should get started - this program will always be improving and never be "complete".** This curriculum will never be "complete" in the same sense the YouTube will never be "complete" - there is new content all the time. We care deeply about the quality of this program and will always be improving and adding to it.
 
-
 ## 👏 Contribute
 
-We love help and feedback on how we can improve the curriculum! The recommended way to help is to submit issues here on Github. If you just want to talk about some ideas, use the discussions tab or contact us directly using one of the methods below.
+We love feedback on how we can improve the curriculum! The recommended way to help is to submit issues here on GitHub. If you just want to talk about some ideas, contact us directly using one of the methods below.
 
 ## 💬 Contact
 
