@@ -52,7 +52,7 @@ This is a living roadmap for [Boot.dev's free-to-audit computer science program 
 
 ## Philosophy
 
-*You can read about our [approach to learning here](https://blog.boot.dev/about/), but in a nutshell we believe:
+*You can read about our [approach to learning here](https://blog.boot.dev/about/), but in a nutshell we believe:*
 
 1. Coding is fun, don’t make it dull
 2. Computer science matters, degrees don’t
