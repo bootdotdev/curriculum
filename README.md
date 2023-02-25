@@ -61,7 +61,7 @@ This is a living roadmap for [Boot.dev's free-to-audit computer science program 
 6. Learning to code is a depth-first algorithm
 7. Learning to code is a marathon, not a sprint
 8. You should be uncomfortable, you'll learn faster if you're pushing yourself
-9. Get an on-site, full-time job for yhour first job if possible
+9. Get an on-site, full-time job for your first job if possible
 
 ## Should I start learning even though the program is not "complete"?
 
