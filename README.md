@@ -21,10 +21,9 @@ This is a living roadmap for [Boot.dev's free-to-audit computer science program 
 13. [Build a Pokedex on the Command Line (Go)](https://boot.dev/build/build-pokedex-cli)
 14. [Learn Web Servers (Go)](https://boot.dev/learn/learn-web-servers)
 15. [Learn SQL (SQL)](https://boot.dev/learn/learn-sql)
-16. [Build a Social Media Backend (Go)](https://boot.dev/build/social-media-backend-golang)
+16. [Build a Blog Aggregator (Go)](https://boot.dev/build/blog-aggregator)
 17. [Learn Docker (Docker CLI)](https://boot.dev/learn/learn-docker)
-18. Learn Web Services (Go)
-19. [Capstone Project (Your choice)](https://boot.dev/build/capstone-project)
+18. [Capstone Project (Your choice)](https://boot.dev/build/capstone-project)
 
 ### Going Deeper
 
