@@ -47,6 +47,10 @@ This is a living roadmap for [Boot.dev's free-to-audit computer science program 
 * Learn Computational Theory (???)
 * Learn Artificial Intelligence (Python)
 * Learn Machine Learning (Python)
+* Learn GraphQL
+* Learn Cyber Security
+* Learn AWS/GCP/Azure
+* Learn NLP
 
 ## Philosophy
 
