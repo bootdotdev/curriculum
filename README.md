@@ -1,6 +1,6 @@
 # Boot.dev's Backend Developer Learning Path
 
-⭐ Hit the project with a star if you find it useful! ⭐
+⭐ Hit the project with a star if you find it useful! ⭐ (Enjoy)
 
 This is a living roadmap for [Boot.dev's free-to-audit computer science program for backend developers.](https://boot.dev)
 
