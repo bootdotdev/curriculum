@@ -26,6 +26,7 @@ This is a living roadmap for [Boot.dev's free-to-audit computer science program 
 18. [Learn Docker (Docker CLI)](https://boot.dev/learn/learn-docker)
 19. [Learn CI/CD (Docker + GitHub Actions)](https://boot.dev/learn/learn-ci-cd)
 20. [Capstone Project (Your choice)](https://boot.dev/build/capstone-project)
+21. [Learn to Find a Job](https://www.boot.dev/learn/learn-job-search)
 
 ### Going Deeper
 
@@ -54,17 +55,7 @@ This is a living roadmap for [Boot.dev's free-to-audit computer science program 
 
 ## Philosophy
 
-*You can read about our [approach to learning here](https://blog.boot.dev/about/), but in a nutshell we believe:*
-
-1. Coding is fun, don’t make it dull
-2. Computer science matters, degrees don’t
-3. You need to build
-4. You need to deploy
-5. It’s hard to find good resources, so cherish the ones you find
-6. Learning to code is a depth-first algorithm
-7. Learning to code is a marathon, not a sprint
-8. You should be uncomfortable, you'll learn faster if you're pushing yourself
-9. Get an on-site, full-time job for your first job if possible
+*You can read about our [approach to learning here](https://blog.boot.dev/about/).
 
 ## Should I start learning even though the program is not "complete"?
 
