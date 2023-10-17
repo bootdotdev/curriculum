@@ -55,7 +55,7 @@ This is a living roadmap for [Boot.dev's free-to-audit computer science program 
 
 ## Philosophy
 
-*You can read about our [approach to learning here](https://blog.boot.dev/about/).
+You can read about our [approach to learning here](https://blog.boot.dev/about/).
 
 ## Should I start learning even though the program is not "complete"?
 
@@ -70,4 +70,4 @@ We love feedback on how we can improve the curriculum! The recommended way to he
 If you would like to discuss the project feel free to [contact us at Boot.dev](https://blog.boot.dev/contact/). We're most responsive on Discord, but you can also find us on Twitter.
 
 * [Twitter](https://twitter.com/bootdotdev)
-* [Discord](https://discord.gg/EEkFwbv)
+* [Discord](https://boot.dev/community)
