@@ -37,7 +37,7 @@ This is a living roadmap for [Boot.dev's free-to-audit computer science program 
 * Learn Computer Networking (Go)
 * Learn NoSQL Databases (???)
 * Learn Performance Engineering (Go)
-* Learn Kubernetes (Kubernetes)
+* [Learn Kubernetes (Minikube)](https://www.boot.dev/learn/learn-kubernetes)
 * Learn Infrastructure as Code (Terraform)
 * Learn Logging and Telemetry (Go)
 * Learn Clean Code (Go)
