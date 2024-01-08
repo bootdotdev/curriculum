@@ -2,7 +2,7 @@
 
 ⭐ Hit the project with a star if you find it useful! ⭐
 
-This is a living roadmap for [Boot.dev's free-to-audit computer science program for backend developers.](https://boot.dev)
+This is a living roadmap for [Boot.dev's free-to-audit career path for backend developers.](https://boot.dev)
 
 ## The Roadmap of Courses and Projects
 
