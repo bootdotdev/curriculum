@@ -1,6 +1,6 @@
 # Boot.dev's Backend Developer Learning Path
 
-![logo_full](https://github.com/bootdotdev/curriculum/assets/21992789/4531db84-badc-487a-a1f8-cfb8e2201578)
+![logosmooshed](https://github.com/bootdotdev/curriculum/assets/21992789/6f834ad1-32b5-4372-ad4a-7f78039fd843)
 
 ⭐ Hit this repo with a star if you find the roadmap useful! ⭐
 
