@@ -1,6 +1,8 @@
 # Boot.dev's Backend Developer Learning Path
 
-⭐ Hit the project with a star if you find it useful! ⭐
+![logo_full](https://github.com/bootdotdev/curriculum/assets/21992789/4531db84-badc-487a-a1f8-cfb8e2201578)
+
+⭐ Hit this repo with a star if you find the roadmap useful! ⭐
 
 This is a living roadmap for [Boot.dev's free-to-audit computer science program for backend developers.](https://boot.dev)
 
