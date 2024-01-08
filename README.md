@@ -2,36 +2,38 @@
 
 ⭐ Hit the project with a star if you find it useful! ⭐
 
-This is a living roadmap for [Boot.dev's free-to-audit career path for backend developers.](https://boot.dev)
+This is a living roadmap for [Boot.dev's free-to-audit computer science program for backend developers.](https://boot.dev)
 
 ## The Roadmap of Courses and Projects
 
 1. [Learn Python (Python)](https://boot.dev/learn/learn-python)
-2. [Build a Local Dev Environment (Python, Git, VS Code)](https://boot.dev/learn/build-local-dev-environment-python)
-3. [Learn Object-Oriented Programming (Python)](https://boot.dev/learn/learn-object-oriented-programming)
-4. Learn Shells and Terminals
-5. [Learn Functional Programming (Python)](https://boot.dev/learn/learn-functional-programming)
-6. [Learn Algorithms (Python)](https://boot.dev/learn/learn-algorithms)
-7. [Learn Data Structures (Python)](https://boot.dev/learn/learn-data-structures)
-8. [Build a Maze Solver (Python)](https://boot.dev/learn/maze-solver-python)
-9. [Personal Project 1 (Your choice)](https://boot.dev/learn/personal-project-1)
-10. [Learn JavaScript (JavaScript)](https://boot.dev/learn/learn-javascript)
-11. [Learn HTTP Clients (JavaScript)](https://boot.dev/learn/learn-http)
-12. [Build a Web Crawler (JavaScript, Node.js)](https://boot.dev/learn/link-analyzer)
-13. [Personal Project 2 (Your choice)](https://boot.dev/learn/personal-project-2)
-14. [Learn Go (Go)](https://boot.dev/learn/learn-golang)
-15. [Build a Pokedex on the Command Line (Go)](https://boot.dev/learn/build-pokedex-cli)
-16. [Learn Web Servers (Go)](https://boot.dev/learn/learn-web-servers)
-17. [Learn SQL (SQL)](https://boot.dev/learn/learn-sql)
-18. [Build a Blog Aggregator (Go)](https://boot.dev/learn/blog-aggregator)
-19. [Learn Docker (Docker CLI)](https://boot.dev/learn/learn-docker)
-20. [Learn CI/CD (Docker + GitHub Actions)](https://boot.dev/learn/learn-ci-cd)
-21. [Capstone Project (Your choice)](https://boot.dev/learn/capstone-project)
-22. [Learn to Find a Job](https://www.boot.dev/learn/learn-job-search)
+2. Learn Shells and Terminals
+3. Learn Git 1
+4. [Build a Local Dev Environment (Python, Git, VS Code)](https://boot.dev/learn/build-local-dev-environment-python)
+5. [Learn Object-Oriented Programming (Python)](https://boot.dev/learn/learn-object-oriented-programming)
+6. [Learn Functional Programming (Python)](https://boot.dev/learn/learn-functional-programming)
+7. [Learn Algorithms 1 (Python)](https://boot.dev/learn/learn-algorithms)
+8. [Learn Data Structures (Python)](https://boot.dev/learn/learn-data-structures)
+9. [Build a Maze Solver (Python)](https://boot.dev/learn/maze-solver-python)
+10. [Personal Project 1 (Your choice)](https://boot.dev/learn/personal-project-1)
+11. [Learn JavaScript (JavaScript)](https://boot.dev/learn/learn-javascript)
+12. [Learn HTTP Clients (JavaScript)](https://boot.dev/learn/learn-http)
+13. [Build a Web Crawler (JavaScript, Node.js)](https://boot.dev/learn/link-analyzer)
+14. [Personal Project 2 (Your choice)](https://boot.dev/learn/personal-project-2)
+15. [Learn Go (Go)](https://boot.dev/learn/learn-golang)
+16. [Build a Pokedex on the Command Line (Go)](https://boot.dev/learn/build-pokedex-cli)
+17. [Learn Web Servers (Go)](https://boot.dev/learn/learn-web-servers)
+18. [Learn SQL (SQL)](https://boot.dev/learn/learn-sql)
+19. [Build a Blog Aggregator (Go)](https://boot.dev/learn/blog-aggregator)
+20. [Learn Docker (Docker CLI)](https://boot.dev/learn/learn-docker)
+21. [Learn CI/CD (Docker + GitHub Actions)](https://boot.dev/learn/learn-ci-cd)
+22. [Capstone Project (Your choice)](https://boot.dev/learn/capstone-project)
+23. [Learn to Find a Job](https://www.boot.dev/learn/learn-job-search)
 
 ### Going Deeper
 
-* [Learn Advanced Algorithms (Python)](https://boot.dev/learn/learn-advanced-algorithms)
+* Learn Git 2
+* [Learn Algorithms 2 (Python)](https://boot.dev/learn/learn-advanced-algorithms)
 * [Learn Cryptography (Go)](https://boot.dev/learn/learn-cryptography)
 * Learn Distributed Systems (Go)
 * Learn PubSub Architectures (Go)
