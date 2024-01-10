@@ -9,9 +9,9 @@ This is a living roadmap for [Boot.dev's free-to-audit computer science program 
 ## The Roadmap of Courses and Projects
 
 1. [Learn Python (Python)](https://boot.dev/learn/learn-python)
-2. Learn Shells and Terminals
-3. Learn Git 1
-4. [Learn Object-Oriented Programming (Python)](https://boot.dev/learn/learn-object-oriented-programming)
+2. [Learn Object-Oriented Programming (Python)](https://boot.dev/learn/learn-object-oriented-programming)
+3. Learn Shells and Terminals
+4. Learn Git 1
 5. [Build a Local Dev Environment (Python, VS Code)](https://boot.dev/learn/build-local-dev-environment-python)
 6. [Learn Functional Programming (Python)](https://boot.dev/learn/learn-functional-programming)
 7. [Learn Algorithms 1 (Python)](https://boot.dev/learn/learn-algorithms)
