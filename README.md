@@ -26,7 +26,7 @@ This is a living roadmap for [Boot.dev's free-to-audit computer science program 
 18. [Learn Web Servers (Go)](https://boot.dev/learn/learn-web-servers)
 19. [Personal Project 2 (Your choice)](https://boot.dev/learn/personal-project-2)
 20. [Learn SQL (SQL)](https://boot.dev/learn/learn-sql)
-21. [Build a Blog Aggregator (Go)](https://boot.dev/learn/blog-aggregator)
+21. [Build a Blog Aggregator (Go)](https://boot.dev/learn/build-blog-aggregator)
 22. [Learn Docker (Docker CLI)](https://boot.dev/learn/learn-docker)
 23. [Learn CI/CD (Docker + GitHub Actions)](https://boot.dev/learn/learn-ci-cd)
 24. [Capstone Project (Your choice)](https://boot.dev/learn/capstone-project)
