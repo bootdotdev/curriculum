@@ -14,7 +14,7 @@ This is a living roadmap for [Boot.dev's free-to-audit computer science program 
 4. Learn Git 1
 5. [Build a Bookbot (Python, VS Code)](https://boot.dev/learn/build-bookbot)
 6. [Learn Functional Programming (Python)](https://boot.dev/learn/learn-functional-programming)
-7. Build a Static Site Generator
+7. [Build a Static Site Generator](https://www.boot.dev/learn/build-static-site-generator)
 8. [Learn Algorithms 1 (Python)](https://boot.dev/learn/learn-algorithms)
 9. [Learn Data Structures (Python)](https://boot.dev/learn/learn-data-structures)
 10. [Build a Maze Solver (Python)](https://boot.dev/learn/maze-solver-python)
