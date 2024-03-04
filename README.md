@@ -10,9 +10,9 @@ This is a living roadmap for [Boot.dev's free-to-audit computer science program 
 
 1. [Learn Python (Python)](https://boot.dev/learn/learn-python)
 2. [Learn Shells and Terminals](https://www.boot.dev/learn/learn-shells-and-terminals)
-3. [Learn Object-Oriented Programming (Python)](https://boot.dev/learn/learn-object-oriented-programming)
-4. Learn Git 1
-5. [Build a Bookbot (Python, VS Code)](https://boot.dev/learn/build-bookbot)
+3. Learn Git 1
+4. [Build a Bookbot (Python, VS Code)](https://boot.dev/learn/build-bookbot)
+5. [Learn Object-Oriented Programming (Python)](https://boot.dev/learn/learn-object-oriented-programming)
 6. [Learn Functional Programming (Python)](https://boot.dev/learn/learn-functional-programming)
 7. [Build a Static Site Generator](https://www.boot.dev/learn/build-static-site-generator)
 8. [Learn Algorithms 1 (Python)](https://boot.dev/learn/learn-algorithms)
