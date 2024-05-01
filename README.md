@@ -36,12 +36,12 @@ This is a living roadmap for [Boot.dev's free-to-audit computer science program 
 
 * Learn Git 2
 * [Learn Kubernetes (Minikube)](https://www.boot.dev/learn/learn-kubernetes)
+* [Learn PubSub Architectures (Go)](https://www.boot.dev/learn/learn-pub-sub)
 * [Learn Algorithms 2 (Python)](https://boot.dev/learn/learn-advanced-algorithms)
 * [Learn Cryptography (Go)](https://boot.dev/learn/learn-cryptography)
 * [Build a Web Crawler (JavaScript, Node.js)](https://boot.dev/learn/link-analyzer)
 * Learn Computer Architecture and Hardware (ARM)
 * Learn Distributed Systems (Go)
-* Learn PubSub Architectures (Go)
 * Learn Computer Networking (Go)
 * Learn NoSQL Databases (???)
 * Learn Performance Engineering (Go)
