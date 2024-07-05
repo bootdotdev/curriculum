@@ -69,7 +69,7 @@ This is a living roadmap for [Boot.dev's free-to-audit computer science program 
 * Learn AWS/GCP/Azure
 * Learn NLP
 
-## Languages
+## Which languages can I learn with?
 
 The plan is to make the backend developer career path available in *many more* major languages. For example, currently the path is predominantly:
 
@@ -89,6 +89,17 @@ We want to make the 2nd half of the learning path, the Go stuff, available in th
 9. etc.
 
 Of lesser priority, but still a goal, is to make the intro to CS section (Python currently) available in other languages. We're prioritizing the 2nd half because that's the section with the more technology-specific skills. It makes more sense to want to tailor that section of the learning path to a career working with a specific language/framework.
+
+## Will you teach anything besides backend?
+
+Yes. For now, we're still focused on having the absolute best curriculum and platform for budding backend developers. And we're prioritizing making it available in more languages, but we plan to then branch out to other career goals. Likely next candidates include:
+
+1. Data Engineering
+2. DevOps / Infrastructure
+3. Embedded
+4. Game Dev
+5. Cyber Security
+6. Front End (lol jk)
 
 ## Philosophy
 
