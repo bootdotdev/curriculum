@@ -32,13 +32,12 @@ This is a living roadmap for [Boot.dev's free-to-audit computer science program 
 14. [Learn HTTP Clients (Go or JavaScript)](https://boot.dev/learn/learn-http)
 15. [Build a Pokedex on the Command Line (Go)](https://boot.dev/learn/build-pokedex-cli)
 16. [Learn Web Servers (Go)](https://boot.dev/learn/learn-web-servers)
-17. [Personal Project 2 (Your choice)](https://boot.dev/learn/build-personal-project-2)
-18. [Learn SQL (SQL)](https://boot.dev/learn/learn-sql)
-19. [Build a Blog Aggregator (Go)](https://boot.dev/learn/build-blog-aggregator)
-20. [Learn Docker (Docker CLI)](https://boot.dev/learn/learn-docker)
-21. [Learn CI/CD (Docker + GitHub Actions)](https://boot.dev/learn/learn-ci-cd)
-22. [Capstone Project (Your choice)](https://boot.dev/learn/build-capstone-project)
-23. [Learn to Find a Job](https://www.boot.dev/learn/learn-job-search)
+17. [Learn SQL (SQL)](https://boot.dev/learn/learn-sql)
+18. [Build a Blog Aggregator (Go)](https://boot.dev/learn/build-blog-aggregator)
+19. [Learn Docker (Docker CLI)](https://boot.dev/learn/learn-docker)
+20. [Learn CI/CD (Docker + GitHub Actions)](https://boot.dev/learn/learn-ci-cd)
+21. [Capstone Project (Your choice)](https://boot.dev/learn/build-capstone-project)
+22. [Learn to Find a Job](https://www.boot.dev/learn/learn-job-search)
 
 ### Going Deeper
 
