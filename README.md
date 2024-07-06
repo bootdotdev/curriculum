@@ -48,6 +48,7 @@ This is a living roadmap for [Boot.dev's free-to-audit computer science program 
 * [Learn PubSub Architectures (Go)](https://www.boot.dev/learn/learn-pub-sub)
 * [Learn Algorithms 2 (Python)](https://boot.dev/learn/learn-advanced-algorithms)
 * [Learn Cryptography (Go)](https://boot.dev/learn/learn-cryptography)
+* Learn Server Administration (Linux/Standard VPS)
 * [Build a Web Crawler (JavaScript, Node.js)](https://boot.dev/learn/build-web-crawler-javascript)
 * Learn Functional Programming 2 (OCaml)
 * Learn Computer Architecture and Hardware (ARM)
