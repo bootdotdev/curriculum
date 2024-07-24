@@ -44,16 +44,16 @@ This is a living roadmap for [Boot.dev's free-to-read computer science program f
 
 ### Section 3: Going Deeper (optional)
 
-| Course Name                 | Primary Language Link                                        | Secondary Language Link                           |
-| --------------------------- | ------------------------------------------------------------ | ------------------------------------------------- |
-| Learn Git 2                 | [Git 2](https://www.boot.dev/courses/learn-git-2)            | [Git 2](https://www.boot.dev/courses/learn-git-2) |
-| Learn the HTTP Protocol     | Go                                                           | TypeScript                                        |
-| Learn Kubernetes            | [Kubernetes](https://www.boot.dev/courses/learn-kubernetes)  | *same*                                            |
-| Learn PubSub Architectures  | [Go](https://www.boot.dev/courses/learn-pub-sub)             | *none*                                            |
-| Learn Algorithms 2          | [Python](https://boot.dev/courses/learn-advanced-algorithms) | *none*                                            |
-| Learn Cryptography          | [Go](https://boot.dev/courses/learn-cryptography)            | *none*                                            |
-| Learn Server Administration | Linux/Standard VPS                                           | *none*                                            |
-| Build a Web Crawler         | TypeScript                                                   | *none*                                            |
+| Course Name                 | Primary Language Link                                        | Secondary Language Link |
+| --------------------------- | ------------------------------------------------------------ | ----------------------- |
+| Learn Git 2                 | [Git 2](https://www.boot.dev/courses/learn-git-2)            | *same*                  |
+| Learn the HTTP Protocol     | Go                                                           | TypeScript              |
+| Learn Kubernetes            | [Kubernetes](https://www.boot.dev/courses/learn-kubernetes)  | *same*                  |
+| Learn PubSub Architectures  | [Go](https://www.boot.dev/courses/learn-pub-sub)             | *none*                  |
+| Learn Algorithms 2          | [Python](https://boot.dev/courses/learn-advanced-algorithms) | *none*                  |
+| Learn Cryptography          | [Go](https://boot.dev/courses/learn-cryptography)            | *none*                  |
+| Learn Server Administration | Linux/Standard VPS                                           | *none*                  |
+| Build a Web Crawler         | TypeScript                                                   | *none*                  |
 
 ### Courses we're thinking about adding
 
