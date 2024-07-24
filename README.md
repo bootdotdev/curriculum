@@ -8,47 +8,55 @@
 
 This is a living roadmap for [Boot.dev's free-to-read computer science program for backend developers.](https://boot.dev)
 
-## The Roadmap of Courses and Projects
+### Section 1: Programming and CS Fundamentals (Python)
 
-### Section 1: Programming and CS Fundamentals
+| Course Name                   | Python Option Link                                                       |
+| ----------------------------- | ------------------------------------------------------------------------ |
+| Learn Coding Basics           | [Python](https://www.boot.dev/courses/learn-python)                      |
+| Learn Shells and Terminals    | [Bash/Zsh](https://www.boot.dev/courses/learn-shells-and-terminals)      |
+| Learn Git                     | [Git](https://www.boot.dev/courses/learn-git)                            |
+| Build a Bookbot               | [Python](https://www.boot.dev/courses/build-bookbot)                     |
+| Learn OOP                     | [Python](https://www.boot.dev/courses/learn-object-oriented-programming) |
+| Build an Asteroids Game       | Python                                                                   |
+| Learn Functional Programming  | [Python](https://www.boot.dev/courses/learn-functional-programming)      |
+| Build a Static Site Generator | [Python](https://www.boot.dev/courses/build-static-site-generator)       |
+| Learn Algorithms              | [Python](https://www.boot.dev/courses/learn-algorithms)                  |
+| Learn Data Structures         | [Python](https://www.boot.dev/courses/learn-data-structures)             |
+| Build a Maze Solver           | [Python](https://www.boot.dev/courses/build-maze-solver-python)          |
+| Learn Memory Management       | C                                                                        |
+| Personal Project 1            | [Your choice](https://www.boot.dev/courses/build-personal-project-1)     |
 
-1. [Learn Python (Python)](https://boot.dev/courses/learn-python)
-2. [Learn Shells and Terminals](https://www.boot.dev/courses/learn-shells-and-terminals)
-3. [Learn Git](https://www.boot.dev/courses/learn-git)
-4. [Build a Bookbot (Python, VS Code)](https://boot.dev/courses/build-bookbot)
-5. [Learn Object-Oriented Programming (Python)](https://boot.dev/courses/learn-object-oriented-programming)
-6. Build an Asteroids Game
-7. [Learn Functional Programming (Python)](https://boot.dev/courses/learn-functional-programming)
-8. [Build a Static Site Generator](https://www.boot.dev/courses/build-static-site-generator)
-9. [Learn Algorithms (Python)](https://boot.dev/courses/learn-algorithms)
-10. [Learn Data Structures (Python)](https://boot.dev/courses/learn-data-structures)
-11. [Build a Maze Solver (Python)](https://boot.dev/courses/build-maze-solver-python)
-12. Learn Memory Management (C)
-13. [Personal Project 1 (Your choice)](https://boot.dev/courses/build-personal-project-1)
+### Section 2: Backend Web Development (Choose Go or JS/TS)
 
-### Section 2: Backend Web Development
+| Course Name             | Go Option Link                                                  | JS/TS Option Link                                               |
+| ----------------------- | --------------------------------------------------------------- | --------------------------------------------------------------- |
+| Learn Language 2        | [Go](https://boot.dev/courses/learn-golang)                     | [JavaScript](https://boot.dev/courses/learn-javascript)         |
+| Learn Language 3        | *skip*                                                          | [TypeScript](https://boot.dev/courses/learn-typescript)         |
+| Learn HTTP              | Go                                                              | TypeScript                                                      |
+| Build a Pokedex         | [Go](https://boot.dev/courses/build-pokedex-cli)                | TypeScript                                                      |
+| Learn Web Servers       | [Go](https://boot.dev/courses/learn-web-servers)                | TypeScript                                                      |
+| Learn SQL               | [SQL](https://boot.dev/courses/learn-sql)                       | [SQL](https://boot.dev/courses/learn-sql)                       |
+| Build a Blog Aggregator | [Go](https://boot.dev/courses/build-blog-aggregator)            | TypeScript                                                      |
+| Learn Docker            | [Docker](https://boot.dev/courses/learn-docker)                 | [Docker](https://boot.dev/courses/learn-docker)                 |
+| Learn CI/CD             | [Docker + GitHub Actions](https://boot.dev/courses/learn-ci-cd) | [Docker + GitHub Actions](https://boot.dev/courses/learn-ci-cd) |
+| Capstone Project        | [Your choice](https://boot.dev/courses/build-capstone-project)  | [Your choice](https://boot.dev/courses/build-capstone-project)  |
+| Learn to Find a Job     | [Job Search](https://www.boot.dev/courses/learn-job-search)     | [Job Search](https://www.boot.dev/courses/learn-job-search)     |
 
-13. [Learn Go (Go)](https://boot.dev/courses/learn-golang)
-14. [Learn HTTP Clients (Go or JavaScript)](https://boot.dev/courses/learn-http)
-15. [Build a Pokedex on the Command Line (Go)](https://boot.dev/courses/build-pokedex-cli)
-16. [Learn Web Servers (Go)](https://boot.dev/courses/learn-web-servers)
-17. [Learn SQL (SQL)](https://boot.dev/courses/learn-sql)
-18. [Build a Blog Aggregator (Go)](https://boot.dev/courses/build-blog-aggregator)
-19. [Learn Docker (Docker CLI)](https://boot.dev/courses/learn-docker)
-20. [Learn CI/CD (Docker + GitHub Actions)](https://boot.dev/courses/learn-ci-cd)
-21. [Capstone Project (Your choice)](https://boot.dev/courses/build-capstone-project)
-22. [Learn to Find a Job](https://www.boot.dev/courses/learn-job-search)
+### Section 3: Going Deeper (optional)
 
-### Going Deeper
+| Course Name                 | Primary Language Link                                        |
+| --------------------------- | ------------------------------------------------------------ |
+| Learn Git 2                 | [Git 2](https://www.boot.dev/courses/learn-git-2)            |
+| Learn the HTTP Protocol     | Go                                                           |
+| Learn Kubernetes            | [Kubernetes](https://www.boot.dev/courses/learn-kubernetes)  |
+| Learn PubSub Architectures  | [Go](https://www.boot.dev/courses/learn-pub-sub)             |
+| Learn Algorithms 2          | [Python](https://boot.dev/courses/learn-advanced-algorithms) |
+| Learn Cryptography          | [Go](https://boot.dev/courses/learn-cryptography)            |
+| Learn Server Administration | Linux/Standard VPS                                           |
+| Build a Web Crawler         | TypeScript                                                   |
 
-* [Learn Git 2](https://www.boot.dev/courses/learn-git-2)
-* Learn the HTTP Protocol (Go)
-* [Learn Kubernetes (Minikube)](https://www.boot.dev/courses/learn-kubernetes)
-* [Learn PubSub Architectures (Go)](https://www.boot.dev/courses/learn-pub-sub)
-* [Learn Algorithms 2 (Python)](https://boot.dev/courses/learn-advanced-algorithms)
-* [Learn Cryptography (Go)](https://boot.dev/courses/learn-cryptography)
-* Learn Server Administration (Linux/Standard VPS)
-* [Build a Web Crawler (JavaScript, Node.js)](https://boot.dev/courses/build-web-crawler-javascript)
+### Courses we're thinking about adding
+
 * Learn Functional Programming 2 (OCaml)
 * Learn Computer Architecture and Hardware (ARM)
 * Learn Distributed Systems (Go)
@@ -68,27 +76,6 @@ This is a living roadmap for [Boot.dev's free-to-read computer science program f
 * Learn Cyber Security
 * Learn AWS/GCP/Azure
 * Learn NLP
-
-## Which languages can I learn with?
-
-The plan is to make the backend developer career path available in *many more* major languages. For example, currently the path is predominantly:
-
-1. Section 1 (cs basics): Python
-2. Section 2 (backend stuff): Golang
-
-We want to make the 2nd half of the learning path, the Go stuff, available in these other languages in descending order of priority:
-
-1. JavaScript/TypeScript
-2. Rust
-3. Python
-4. C#
-5. Java
-6. PHP
-7. Ruby
-8. Elixir
-9. etc.
-
-Of lesser priority, but still a goal, is to make the intro to CS section (Python currently) available in other languages. We're prioritizing the 2nd half because that's the section with the more technology-specific skills. It makes more sense to want to tailor that section of the learning path to a career working with a specific language/framework.
 
 ## Will you teach anything besides backend?
 
