@@ -31,7 +31,7 @@ This is a living roadmap for [Boot.dev's free-to-read computer science program f
 | Course Name             | Go Option Link                                                  | JS/TS Option Link                                       |
 | ----------------------- | --------------------------------------------------------------- | ------------------------------------------------------- |
 | Learn Language 2        | [Go](https://boot.dev/courses/learn-golang)                     | [JavaScript](https://boot.dev/courses/learn-javascript) |
-| Learn Language 3        | *skip*                                                          | [TypeScript](https://boot.dev/courses/learn-typescript) |
+| Learn Language 3        | *skip*                                                          | TypeScript                                              |
 | Learn HTTP              | Go                                                              | TypeScript                                              |
 | Build a Pokedex         | [Go](https://boot.dev/courses/build-pokedex-cli)                | TypeScript                                              |
 | Learn Web Servers       | [Go](https://boot.dev/courses/learn-web-servers)                | TypeScript                                              |
