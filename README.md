@@ -37,7 +37,7 @@ This is a living roadmap for [Boot.dev's free-to-read computer science program f
 | Build a Pokedex         | [Go](https://boot.dev/courses/build-pokedex-cli)                | TypeScript                                              |
 | Learn SQL               | [SQL](https://boot.dev/courses/learn-sql)                       | _same_                                                  |
 | Build a Blog Aggregator | [Go](https://boot.dev/courses/build-blog-aggregator)            | TypeScript                                              |
-| Learn Web Servers       | [Go](https://boot.dev/courses/learn-web-servers)                | TypeScript                                              |
+| Learn HTTP Servers       | [Go](https://boot.dev/courses/learn-web-servers)                | TypeScript                                              |
 | Learn Buckets and CDNs  | Go + S3 + Cloudfront                                            | TypeScript                                              |
 | Learn Docker            | [Docker](https://boot.dev/courses/learn-docker)                 | _same_                                                  |
 | Learn CI/CD             | [Docker + GitHub Actions](https://boot.dev/courses/learn-ci-cd) | _same_                                                  |
