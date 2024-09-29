@@ -23,7 +23,7 @@ This is a living roadmap for [Boot.dev's free-to-read computer science program f
 | Learn Algorithms              | [Python](https://www.boot.dev/courses/learn-algorithms)                  |
 | Learn Data Structures         | [Python](https://www.boot.dev/courses/learn-data-structures)             |
 | Build a Maze Solver           | [Python](https://www.boot.dev/courses/build-maze-solver-python)          |
-| Learn Memory Management       | C                                                                        |
+| Learn Memory Management       | [C](https://www.boot.dev/courses/learn-memory-management)                                                                        |
 | Personal Project 1            | [Your choice](https://www.boot.dev/courses/build-personal-project-1)     |
 
 ### Section 2: Backend Web Development (Go or JS/TS)
