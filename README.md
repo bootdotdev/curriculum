@@ -56,7 +56,7 @@ This is a living roadmap for [Boot.dev's free-to-read computer science program f
 | Learn Algorithms 2          | [Python](https://boot.dev/courses/learn-advanced-algorithms) | _none_                  |
 | Learn Cryptography          | [Go](https://boot.dev/courses/learn-cryptography)            | _none_                  |
 | Learn Server Administration | Linux/Standard VPS                                           | _none_                  |
-| Build a Web Crawler         | Go                                                           | TypeScript              |
+| Build a Web Crawler         | [Go](https://www.boot.dev/courses/build-web-crawler-golang)  | [JavaScript](https://www.boot.dev/courses/build-web-crawler-javascript) |
 
 ### Courses we're thinking about adding
 
