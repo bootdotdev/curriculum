@@ -47,15 +47,17 @@ This is a living roadmap for [Boot.dev's free-to-read computer science program f
 
 ### Section 3: Going Deeper (optional)
 
-| Course Name                | Primary Language Link                                        | Secondary Language Link |
-| -------------------------- | ------------------------------------------------------------ | ----------------------- |
-| Learn Git 2                | [Git 2](https://www.boot.dev/courses/learn-git-2)            | _same_                  |
-| Learn the HTTP Protocol    | Go                                                           | TypeScript              |
-| Learn Kubernetes           | [Kubernetes](https://www.boot.dev/courses/learn-kubernetes)  | _same_                  |
-| Learn PubSub Architectures | [Go](https://www.boot.dev/courses/learn-pub-sub)             | _none_                  |
-| Learn Algorithms 2         | [Python](https://boot.dev/courses/learn-advanced-algorithms) | _none_                  |
-| Learn Cryptography         | [Go](https://boot.dev/courses/learn-cryptography)            | _none_                  |
-| Build a Web Crawler        | [Go](https://www.boot.dev/courses/build-web-crawler-golang)  | TypeScript              |
+| Course Name                 | Primary Language Link                                        | Secondary Language Link |
+| --------------------------- | ------------------------------------------------------------ | ----------------------- |
+| Learn Git 2                 | [Git 2](https://www.boot.dev/courses/learn-git-2)            | _same_                  |
+| Learn the HTTP Protocol     | Go                                                           | TypeScript              |
+| Learn Kubernetes            | [Kubernetes](https://www.boot.dev/courses/learn-kubernetes)  | _same_                  |
+| Learn PubSub Architectures  | [Go](https://www.boot.dev/courses/learn-pub-sub)             | _none_                  |
+| Learn Algorithms 2          | [Python](https://boot.dev/courses/learn-advanced-algorithms) | _none_                  |
+| Learn Cryptography          | [Go](https://boot.dev/courses/learn-cryptography)            | _none_                  |
+| Learn Server Administration | Linux/Standard VPS                                           | _none_                  |
+| Build a Web Crawler         | [Go](https://www.boot.dev/courses/build-web-crawler-golang)  | [JavaScript](https://www.boot.dev/courses/build-web-crawler-javascript) |
+
 
 ### Courses we're thinking about adding
 
