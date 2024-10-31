@@ -28,23 +28,23 @@ This is a living roadmap for [Boot.dev's free-to-read computer science program f
 
 ### Section 2: Backend Web Development (Go or JS/TS)
 
-| Course Name              | Go Option Link                                                                    | JS/TS Option Link                                       |
-| ------------------------ | --------------------------------------------------------------------------------- | ------------------------------------------------------- |
-| Learn Language 2         | [Go](https://boot.dev/courses/learn-golang)                                       | [JavaScript](https://boot.dev/courses/learn-javascript) |
-| Learn Language 3         | _skip_                                                                            | TypeScript                                              |
-| Build an X               | Go                                                                                | TypeScript                                              |
-| Learn HTTP Clients       | [Go](https://boot.dev/courses/learn-http-clients-golang)                          | TypeScript                                              |
-| Build a Pokedex          | [Go](https://www.boot.dev/courses/build-pokedex-cli-golang)                       | TypeScript                                              |
-| Learn SQL                | [SQL](https://boot.dev/courses/learn-sql)                                         | _same_                                                  |
-| Build a Blog Aggregator  | [Go](https://www.boot.dev/courses/build-blog-aggregator-golang)                   | TypeScript                                              |
-| Learn HTTP Servers       | [Go](https://www.boot.dev/courses/learn-http-servers-golang)                      | TypeScript                                              |
-| Learn Large File Storage | Go + S3                                                                           | TypeScript + S3                                         |
-| Learn CDNs               | Go + Cloudfront                                                                   | TypeScript + Cloudfront                                 |
-| Learn Docker             | [Docker](https://boot.dev/courses/learn-docker)                                   | _same_                                                  |
-| Learn CI/CD              | [Docker + GitHub Actions](https://www.boot.dev/courses/learn-ci-cd-github-docker) | _same_                                                  |
-| Learn Web Security       | Go                                                                                | TypeScript                                              |
-| Capstone Project         | [Your choice](https://boot.dev/courses/build-capstone-project)                    | _same_                                                  |
-| Learn to Find a Job      | [Job Search](https://www.boot.dev/courses/learn-job-search)                       | _same_                                                  |
+| Course Name              | Go Option Link                                                                    | JS/TS Option Link                                           |
+| ------------------------ | --------------------------------------------------------------------------------- | ----------------------------------------------------------- |
+| Learn Language 2         | [Go](https://www.boot.dev/courses/learn-golang)                                   | [JavaScript](https://www.boot.dev/courses/learn-javascript) |
+| Learn Language 3         | _skip_                                                                            | TypeScript                                                  |
+| Build an X               | Go                                                                                | TypeScript                                                  |
+| Learn HTTP Clients       | [Go](https://www.boot.dev/courses/learn-http-clients-golang)                      | TypeScript                                                  |
+| Build a Pokedex          | [Go](https://www.boot.dev/courses/build-pokedex-cli-golang)                       | TypeScript                                                  |
+| Learn SQL                | [SQL](https://www.boot.dev/courses/learn-sql)                                     | _same_                                                      |
+| Build a Blog Aggregator  | [Go](https://www.boot.dev/courses/build-blog-aggregator-golang)                   | TypeScript                                                  |
+| Learn HTTP Servers       | [Go](https://www.boot.dev/courses/learn-http-servers-golang)                      | TypeScript                                                  |
+| Learn Large File Storage | Go + S3                                                                           | TypeScript + S3                                             |
+| Learn CDNs               | Go + Cloudfront                                                                   | TypeScript + Cloudfront                                     |
+| Learn Docker             | [Docker](https://www.boot.dev/courses/learn-docker)                               | _same_                                                      |
+| Learn CI/CD              | [Docker + GitHub Actions](https://www.boot.dev/courses/learn-ci-cd-github-docker) | _same_                                                      |
+| Learn Web Security       | Go                                                                                | TypeScript                                                  |
+| Capstone Project         | [Your choice](https://www.boot.dev/courses/build-capstone-project)                | _same_                                                      |
+| Learn to Find a Job      | [Job Search](https://www.boot.dev/courses/learn-job-search)                       | _same_                                                      |
 
 ### Section 3: Going Deeper (optional)
 
@@ -109,4 +109,4 @@ We love feedback on how we can improve the curriculum! The recommended way to he
 If you would like to discuss the project feel free to [contact us at Boot.dev](https://blog.boot.dev/contact/). We're most responsive on Discord, but you can also find us on Twitter.
 
 - [Twitter](https://twitter.com/bootdotdev)
-- [Discord](https://boot.dev/community)
+- [Discord](https://www.boot.dev/community)
