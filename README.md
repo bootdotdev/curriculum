@@ -38,10 +38,10 @@ This is a living roadmap for [Boot.dev's free-to-read computer science program f
 | Learn SQL                | [SQL](https://www.boot.dev/courses/learn-sql)                                     | _same_                                                      |
 | Build a Blog Aggregator  | [Go](https://www.boot.dev/courses/build-blog-aggregator-golang)                   | TypeScript                                                  |
 | Learn HTTP Servers       | [Go](https://www.boot.dev/courses/learn-http-servers-golang)                      | TypeScript                                                  |
-| Learn Large File Storage | Go + S3                                                                           | TypeScript + S3                                             |
+| Learn File Storage | Go + S3                                                                           | TypeScript + S3                                             |
 | Learn CDNs               | Go + Cloudfront                                                                   | TypeScript + Cloudfront                                     |
 | Learn Docker             | [Docker](https://www.boot.dev/courses/learn-docker)                               | _same_                                                      |
-| Learn CI/CD              | [Docker + GitHub Actions](https://www.boot.dev/courses/learn-ci-cd-github-docker) | _same_                                                      |
+| Learn CI/CD              | [Docker + GitHub Actions + Go](https://www.boot.dev/courses/learn-ci-cd-github-docker) | Docker + GitHub Actions + TS                                                     |
 | Learn Web Security       | Go                                                                                | TypeScript                                                  |
 | Capstone Project         | [Your choice](https://www.boot.dev/courses/build-capstone-project)                | _same_                                                      |
 | Learn to Find a Job      | [Job Search](https://www.boot.dev/courses/learn-job-search)                       | _same_                                                      |
