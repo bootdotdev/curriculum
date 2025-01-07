@@ -13,7 +13,7 @@ This is a living roadmap for [Boot.dev's free-to-read computer science program f
 | Course Name                   | Python Option Link                                                              |
 | ----------------------------- | ------------------------------------------------------------------------------- |
 | Learn Coding Basics           | [Python](https://www.boot.dev/courses/learn-code-python)                        |
-| Learn Shells and Terminals    | [Bash/Zsh](https://www.boot.dev/courses/learn-shells-and-terminals)             |
+| Learn Linux                   | [Bash/Zsh](https://www.boot.dev/courses/learn-linux)                            |
 | Learn Git                     | [Git](https://www.boot.dev/courses/learn-git)                                   |
 | Build a Bookbot               | [Python](https://www.boot.dev/courses/build-bookbot-python)                     |
 | Learn OOP                     | [Python](https://www.boot.dev/courses/learn-object-oriented-programming-python) |
