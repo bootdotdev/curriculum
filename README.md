@@ -10,21 +10,20 @@ This is a living roadmap for [Boot.dev's free-to-read computer science program f
 
 ### Section 1: Programming and CS Fundamentals (Python)
 
-| Course Name                   | Python Option Link                                                              |
-| ----------------------------- | ------------------------------------------------------------------------------- |
-| Learn Coding Basics           | [Python](https://www.boot.dev/courses/learn-code-python)                        |
-| Learn Linux                   | [Bash/Zsh](https://www.boot.dev/courses/learn-linux)                            |
-| Learn Git                     | [Git](https://www.boot.dev/courses/learn-git)                                   |
-| Build a Bookbot               | [Python](https://www.boot.dev/courses/build-bookbot-python)                     |
-| Learn OOP                     | [Python](https://www.boot.dev/courses/learn-object-oriented-programming-python) |
-| Build an Asteroids Game       | [Python](https://www.boot.dev/courses/build-asteroids-python)                   |
-| Learn Functional Programming  | [Python](https://www.boot.dev/courses/learn-functional-programming-python)      |
-| Build a Static Site Generator | [Python](https://www.boot.dev/courses/build-static-site-generator-python)       |
-| Learn Algorithms              | [Python](https://www.boot.dev/courses/learn-algorithms-python)                  |
-| Learn Data Structures         | [Python](https://www.boot.dev/courses/learn-data-structures-python)             |
-| Build a Maze Solver           | [Python](https://www.boot.dev/courses/build-maze-solver-python)                 |
-| Learn Memory Management       | [C](https://www.boot.dev/courses/learn-memory-management-c)                     |
-| Personal Project 1            | [Your choice](https://www.boot.dev/courses/build-personal-project-1)            |
+| Course Name                                    | Python Option Link                                                                 |
+| ---------------------------------------------- | ---------------------------------------------------------------------------------- |
+| Learn Coding Basics                            | [Python](https://www.boot.dev/courses/learn-code-python)                           |
+| Learn Linux                                    | [Bash/Zsh](https://www.boot.dev/courses/learn-linux)                               |
+| Learn Git                                      | [Git](https://www.boot.dev/courses/learn-git)                                      |
+| Build a Bookbot                                | [Python](https://www.boot.dev/courses/build-bookbot-python)                        |
+| Learn OOP                                      | [Python](https://www.boot.dev/courses/learn-object-oriented-programming-python)    |
+| Build an Asteroids Game                        | [Python](https://www.boot.dev/courses/build-asteroids-python)                      |
+| Learn Functional Programming                   | [Python](https://www.boot.dev/courses/learn-functional-programming-python)         |
+| Build a Static Site Generator                  | [Python](https://www.boot.dev/courses/build-static-site-generator-python)          |
+| Learn Data Structures and Algorithms in Python | [Python](https://www.boot.dev/courses/learn-data-structures-and-algorithms-python) |
+| Build a Maze Solver                            | [Python](https://www.boot.dev/courses/build-maze-solver-python)                    |
+| Learn Memory Management                        | [C](https://www.boot.dev/courses/learn-memory-management-c)                        |
+| Personal Project 1                             | [Your choice](https://www.boot.dev/courses/build-personal-project-1)               |
 
 ### Section 2: Backend Web Development (Go or JS/TS)
 
