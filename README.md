@@ -15,7 +15,7 @@ This is a living roadmap for [Boot.dev's free-to-read computer science and progr
 - [Data Analyst Career Path](#data-analyst-career-path)
 - [Notes](#notes)
 
-## The Backend Developer Career Path
+## Backend Developer Career Path
 
 | Course Name                          | Links                                                                                                                                                                     |
 | ------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
