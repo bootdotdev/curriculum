@@ -10,7 +10,7 @@ This is a living roadmap for [Boot.dev's free-to-read computer science and progr
 
 ## Table of Contents
 
-- [Backend Developer Career Path](#the-backend-developer-career-path)
+- [Backend Developer Career Path](#backend-developer-career-path)
 - [DevOps Career Path](#devops-career-path)
 - [Data Analyst Career Path](#data-analyst-career-path)
 - [Notes](#notes)
@@ -57,7 +57,9 @@ This is a living roadmap for [Boot.dev's free-to-read computer science and progr
 | Learn Cryptography         | [Go](https://www.boot.dev/courses/learn-cryptography-golang)     |
 | Build a Web Crawler        | [Go](https://www.boot.dev/courses/build-web-crawler-golang)      |
 
-## DevOps Career Path (wip/planned)
+## DevOps Career Path
+
+_wip/planned_
 
 | Course Name                 | Option Link                                                                                                                                                                               |
 | --------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -90,7 +92,9 @@ This is a living roadmap for [Boot.dev's free-to-read computer science and progr
 | Learn Git 2                | [Git 2](https://www.boot.dev/courses/learn-git-2)         |
 | Learn PubSub Architectures | [Go](https://www.boot.dev/courses/learn-pub-sub-rabbitmq) |
 
-## Data Analyst Career Path (wip/planned)
+## Data Analyst Career Path
+
+_wip/planned_
 
 | Course Name                           | Option Link                                                                     |
 | ------------------------------------- | ------------------------------------------------------------------------------- |
