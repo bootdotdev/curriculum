@@ -1,7 +1,7 @@
 # Boot.dev's Course Roadmap
 
 <p align="center">
-  <img src="https://github.com/bootdotdev/bootdev/assets/4583705/7a1184f1-bb43-45fa-a363-f18f8309056f" />
+  <img src="https://github.com/bootdotdev/bootdev/assets/4583705/7a1184f1-bb43-45fa-a363-f18f8309056f" style="width:200px;" />
 </p>
 
 This is a living roadmap for [Boot.dev's free-to-read computer science and programming curriculum](https://www.boot.dev).
