@@ -50,7 +50,7 @@ This is a living roadmap for [Boot.dev's free-to-read computer science and progr
 | Course Name                | Links                                                            |
 | -------------------------- | ---------------------------------------------------------------- |
 | Learn Git 2                | [Git 2](https://www.boot.dev/courses/learn-git-2)                |
-| Learn the HTTP Protocol    | Go                                                               |
+| Learn the HTTP Protocol    | [Go](https://www.boot.dev/courses/learn-http-protocol-golang)                                                               |
 | Learn Kubernetes           | [Kubernetes](https://www.boot.dev/courses/learn-kubernetes)      |
 | Learn PubSub Architectures | [Go](https://www.boot.dev/courses/learn-pub-sub-rabbitmq)        |
 | Learn Algorithms 2         | [Python](https://www.boot.dev/courses/learn-algorithms-2-python) |
