@@ -26,9 +26,9 @@ This is a living roadmap for [Boot.dev's free-to-read computer science and progr
 | Learn Object Oriented Programming    | [Python](https://www.boot.dev/courses/learn-object-oriented-programming-python)                                                                                           |
 | Build an Asteroids Game              | [Python](https://www.boot.dev/courses/build-asteroids-python)                                                                                                             |
 | Learn Functional Programming         | [Python](https://www.boot.dev/courses/learn-functional-programming-python)                                                                                                |
-| Build a Static Site Generator        | [Python](https://www.boot.dev/courses/build-static-site-generator-python)                                                                                                 |
+| Build an AI Chatbot                  | Python                                                                                                                                                                    |
 | Learn Data Structures and Algorithms | [Python](https://www.boot.dev/courses/learn-data-structures-and-algorithms-python)                                                                                        |
-| Build a Maze Solver                  | [Python](https://www.boot.dev/courses/build-maze-solver-python)                                                                                                           |
+| Build a Static Site Generator        | [Python](https://www.boot.dev/courses/build-static-site-generator-python)                                                                                                 |
 | Learn Memory Management              | [C](https://www.boot.dev/courses/learn-memory-management-c)                                                                                                               |
 | Personal Project 1                   | [Your choice](https://www.boot.dev/courses/build-personal-project-1)                                                                                                      |
 | Learn Language 2                     | [Go](https://www.boot.dev/courses/learn-golang), [JavaScript](https://www.boot.dev/courses/learn-javascript)                                                              |
@@ -50,12 +50,13 @@ This is a living roadmap for [Boot.dev's free-to-read computer science and progr
 | Course Name                | Links                                                            |
 | -------------------------- | ---------------------------------------------------------------- |
 | Learn Git 2                | [Git 2](https://www.boot.dev/courses/learn-git-2)                |
-| Learn the HTTP Protocol    | [Go](https://www.boot.dev/courses/learn-http-protocol-golang)                                                               |
+| Learn the HTTP Protocol    | [Go](https://www.boot.dev/courses/learn-http-protocol-golang)    |
 | Learn Kubernetes           | [Kubernetes](https://www.boot.dev/courses/learn-kubernetes)      |
 | Learn PubSub Architectures | [Go](https://www.boot.dev/courses/learn-pub-sub-rabbitmq)        |
 | Learn Algorithms 2         | [Python](https://www.boot.dev/courses/learn-algorithms-2-python) |
 | Learn Cryptography         | [Go](https://www.boot.dev/courses/learn-cryptography-golang)     |
 | Build a Web Crawler        | [Go](https://www.boot.dev/courses/build-web-crawler-golang)      |
+| Build a Maze Solver        | [Python](https://www.boot.dev/courses/build-maze-solver-python)  |
 
 ## DevOps Career Path
 
