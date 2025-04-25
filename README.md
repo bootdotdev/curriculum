@@ -78,7 +78,7 @@ This is a living roadmap for [Boot.dev's free-to-read computer science and progr
 | Capstone Project                     | [Your choice](https://www.boot.dev/courses/build-capstone-project)                                       |
 | Learn to Find a Job                  | [Job Search](https://www.boot.dev/courses/learn-job-search)                                              |
 
-## Data Analyst Career Path
+## Data Analyst Career Path - Python/SQL
 
 _wip/planned_
 
@@ -102,7 +102,7 @@ _wip/planned_
 | Capstone Project                      | [Your choice](https://www.boot.dev/courses/build-capstone-project)              |
 | Learn to Find a Job                   | [Job Search](https://www.boot.dev/courses/learn-job-search)                     |
 
-## DevOps Career Path - Python / Go
+## DevOps Career Path - Python/Go
 
 _wip/planned_
 
