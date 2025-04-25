@@ -26,12 +26,13 @@ This is a living roadmap for [Boot.dev's free-to-read computer science and progr
 | Learn Object Oriented Programming    | [Python](https://www.boot.dev/courses/learn-object-oriented-programming-python)              |
 | Build an Asteroids Game              | [Python](https://www.boot.dev/courses/build-asteroids-python)                                |
 | Learn Functional Programming         | [Python](https://www.boot.dev/courses/learn-functional-programming-python)                   |
-| Build an AI Chatbot                  | Python                                                                                       |
+| Build an AI Agent                    | Python                                                                                       |
 | Learn Data Structures and Algorithms | [Python](https://www.boot.dev/courses/learn-data-structures-and-algorithms-python)           |
 | Build a Static Site Generator        | [Python](https://www.boot.dev/courses/build-static-site-generator-python)                    |
 | Learn Memory Management              | [C](https://www.boot.dev/courses/learn-memory-management-c)                                  |
 | Personal Project 1                   | [Your choice](https://www.boot.dev/courses/build-personal-project-1)                         |
 | Learn Golang                         | [Go](https://www.boot.dev/courses/learn-golang)                                              |
+| Learn Networking                     | Go                                                                                           |
 | Learn HTTP Clients                   | [Go](https://www.boot.dev/courses/learn-http-clients-golang)                                 |
 | Build a Pokedex                      | [Go](https://www.boot.dev/courses/build-pokedex-cli-golang)                                  |
 | Learn SQL                            | [SQL](https://www.boot.dev/courses/learn-sql)                                                |
@@ -41,10 +42,11 @@ This is a living roadmap for [Boot.dev's free-to-read computer science and progr
 | Learn Docker                         | [Docker](https://www.boot.dev/courses/learn-docker)                                          |
 | Learn CI/CD                          | [Docker + GitHub + Go](https://www.boot.dev/courses/learn-ci-cd-github-docker)               |
 | Learn Web Security                   | Go                                                                                           |
+| Learn Pub/Sub Architecture           | [Go](https://www.boot.dev/courses/learn-pub-sub-rabbitmq)                                    |
 | Capstone Project                     | [Your choice](https://www.boot.dev/courses/build-capstone-project)                           |
 | Learn to Find a Job                  | [Job Search](https://www.boot.dev/courses/learn-job-search)                                  |
 
-## Backend Developer Career Path - Python/typescript
+## Backend Developer Career Path - Python/TypeScript
 
 | Course Name                          | Links                                                                                                    |
 | ------------------------------------ | -------------------------------------------------------------------------------------------------------- |
@@ -55,13 +57,14 @@ This is a living roadmap for [Boot.dev's free-to-read computer science and progr
 | Learn Object Oriented Programming    | [Python](https://www.boot.dev/courses/learn-object-oriented-programming-python)                          |
 | Build an Asteroids Game              | [Python](https://www.boot.dev/courses/build-asteroids-python)                                            |
 | Learn Functional Programming         | [Python](https://www.boot.dev/courses/learn-functional-programming-python)                               |
-| Build an AI Chatbot                  | Python                                                                                                   |
+| Build an AI Agent                    | Python                                                                                                   |
 | Learn Data Structures and Algorithms | [Python](https://www.boot.dev/courses/learn-data-structures-and-algorithms-python)                       |
 | Build a Static Site Generator        | [Python](https://www.boot.dev/courses/build-static-site-generator-python)                                |
 | Learn Memory Management              | [C](https://www.boot.dev/courses/learn-memory-management-c)                                              |
 | Personal Project 1                   | [Your choice](https://www.boot.dev/courses/build-personal-project-1)                                     |
 | Learn JavaScript                     | [JavaScript](https://www.boot.dev/courses/learn-javascript)                                              |
 | Learn TypeScript                     | TypeScript                                                                                               |
+| Learn Networking                     | TypeScript                                                                                               |
 | Learn HTTP Clients                   | [TypeScript](https://www.boot.dev/courses/learn-http-clients-typescript)                                 |
 | Build a Pokedex                      | [TypeScript](https://www.boot.dev/courses/build-pokedex-cli-typescript)                                  |
 | Learn SQL                            | [SQL](https://www.boot.dev/courses/learn-sql)                                                            |
@@ -71,6 +74,7 @@ This is a living roadmap for [Boot.dev's free-to-read computer science and progr
 | Learn Docker                         | [Docker](https://www.boot.dev/courses/learn-docker)                                                      |
 | Learn CI/CD                          | [Docker + GitHub + TS](https://www.boot.dev/courses/learn-ci-cd-github-docker-typescript)                |
 | Learn Web Security                   | TypeScript                                                                                               |
+| Learn Pub/Sub Architecture           | TypeScript                                                                                               |
 | Capstone Project                     | [Your choice](https://www.boot.dev/courses/build-capstone-project)                                       |
 | Learn to Find a Job                  | [Job Search](https://www.boot.dev/courses/learn-job-search)                                              |
 
@@ -98,59 +102,76 @@ _wip/planned_
 | Capstone Project                      | [Your choice](https://www.boot.dev/courses/build-capstone-project)              |
 | Learn to Find a Job                   | [Job Search](https://www.boot.dev/courses/learn-job-search)                     |
 
-## DevOps Career Path
+## DevOps Career Path - Python / Go
 
 _wip/planned_
 
-| Course Name                 | Option Link                                                                                                                                                                               |
-| --------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Learn Coding Basics         | [Python](https://www.boot.dev/courses/learn-code-python)                                                                                                                                  |
-| Learn Linux                 | [Bash/Zsh](https://www.boot.dev/courses/learn-linux)                                                                                                                                      |
-| Learn Git                   | [Git](https://www.boot.dev/courses/learn-git)                                                                                                                                             |
-| Build a Bookbot             | [Python](https://www.boot.dev/courses/build-bookbot-python)                                                                                                                               |
-| Learn Shell Scripting       | Bash                                                                                                                                                                                      |
-| Personal Project 1          | [Your choice](https://www.boot.dev/courses/build-personal-project-1)                                                                                                                      |
-| Learn DevOps Best Practices | _none_                                                                                                                                                                                    |
-| Learn Language 2            | [Go](https://www.boot.dev/courses/learn-golang), [JavaScript](https://www.boot.dev/courses/learn-javascript)                                                                              |
-| Learn Language 3            | _skip_, TypeScript                                                                                                                                                                        |
-| Learn HTTP Clients          | [Go](https://www.boot.dev/courses/learn-http-clients-golang), [TypeScript](https://www.boot.dev/courses/learn-http-clients-typescript)                                                    |
-| Learn SQL                   | [SQL](https://www.boot.dev/courses/learn-sql)                                                                                                                                             |
-| Learn DNS                   | _none_                                                                                                                                                                                    |
-| Learn Server Administration | _none_                                                                                                                                                                                    |
-| Learn Docker                | [Docker](https://www.boot.dev/courses/learn-docker)                                                                                                                                       |
-| Learn Kubernetes            | [Kubernetes](https://www.boot.dev/courses/learn-kubernetes)                                                                                                                               |
-| Learn Cloud Infrastructure  | _none_                                                                                                                                                                                    |
-| Learn CI/CD                 | [Docker + GitHub Actions + Go](https://www.boot.dev/courses/learn-ci-cd-github-docker), [Docker + GitHub Actions + TS](https://www.boot.dev/courses/learn-ci-cd-github-docker-typescript) |
-| Learn Logging and Telemetry | _none_                                                                                                                                                                                    |
-| Learn Web Security          | Go                                                                                                                                                                                        |
-| Capstone Project            | [Your choice](https://www.boot.dev/courses/build-capstone-project)                                                                                                                        |
-| Learn to Find a Job         | [Job Search](https://www.boot.dev/courses/learn-job-search)                                                                                                                               |
+| Course Name                       | Option Link                                                                            |
+| --------------------------------- | -------------------------------------------------------------------------------------- |
+| Learn Coding Basics               | [Python](https://www.boot.dev/courses/learn-code-python)                               |
+| Learn Linux                       | [Bash/Zsh](https://www.boot.dev/courses/learn-linux)                                   |
+| Learn Git                         | [Git](https://www.boot.dev/courses/learn-git)                                          |
+| Build a Bookbot                   | [Python](https://www.boot.dev/courses/build-bookbot-python)                            |
+| Learn Shell Scripting             | Bash                                                                                   |
+| Learn Object Oriented Programming | [Python](https://www.boot.dev/courses/learn-object-oriented-programming-python)        |
+| Build an Asteroids Game           | [Python](https://www.boot.dev/courses/build-asteroids-python)                          |
+| Personal Project 1                | [Your choice](https://www.boot.dev/courses/build-personal-project-1)                   |
+| Learn DevOps Best Practices       | Go                                                                                     |
+| Learn Golang                      | [Go](https://www.boot.dev/courses/learn-golang)                                        |
+| Learn Networking                  | Go                                                                                     |
+| Learn HTTP Clients                | [Go](https://www.boot.dev/courses/learn-http-clients-golang)                           |
+| Build a Pokedex                   | [Go](https://www.boot.dev/courses/build-pokedex-cli-golang)                            |
+| Learn SQL                         | [SQL](https://www.boot.dev/courses/learn-sql)                                          |
+| Learn Operating Systems           | Go                                                                                     |
+| Learn Server Administration       | Bash                                                                                   |
+| Learn Docker                      | [Docker](https://www.boot.dev/courses/learn-docker)                                    |
+| Learn CI/CD                       | [Docker + GitHub Actions + Go](https://www.boot.dev/courses/learn-ci-cd-github-docker) |
+| Learn Cloud Infrastructure        | Terraform                                                                              |
+| Learn Kubernetes                  | [Kubernetes](https://www.boot.dev/courses/learn-kubernetes)                            |
+| Learn Logging and Telemetry       | Go                                                                                     |
+| Learn Web Security                | Go                                                                                     |
+| Capstone Project                  | [Your choice](https://www.boot.dev/courses/build-capstone-project)                     |
+| Learn to Find a Job               | [Job Search](https://www.boot.dev/courses/learn-job-search)                            |
+
+## Computer Science Learning Path - Python/Go
+
+| Course Name                              | Links                                                                                |
+| ---------------------------------------- | ------------------------------------------------------------------------------------ |
+| Learn Coding Basics                      | [Python](https://www.boot.dev/courses/learn-code-python)                             |
+| Learn Linux                              | [Bash/Zsh](https://www.boot.dev/courses/learn-linux)                                 |
+| Learn Git                                | [Git](https://www.boot.dev/courses/learn-git)                                        |
+| Build a Bookbot                          | [Python](https://www.boot.dev/courses/build-bookbot-python)                          |
+| Learn Object Oriented Programming        | [Python](https://www.boot.dev/courses/learn-object-oriented-programming-python)      |
+| Build an Asteroids Game                  | [Python](https://www.boot.dev/courses/build-asteroids-python)                        |
+| Learn Functional Programming             | [Python](https://www.boot.dev/courses/learn-functional-programming-python)           |
+| Build an AI Agent                        | Python                                                                               |
+| Learn Data Structures and Algorithms     | [Python](https://www.boot.dev/courses/learn-data-structures-and-algorithms-python)   |
+| Build a Static Site Generator            | [Python](https://www.boot.dev/courses/build-static-site-generator-python)            |
+| Learn Data Structures and Algorithms 2   | [Python](https://www.boot.dev/courses/learn-data-structures-and-algorithms-python-2) |
+| Build a Maze Solver                      | [Python](https://www.boot.dev/courses/build-maze-solver-python)                      |
+| Learn Memory Management                  | [C](https://www.boot.dev/courses/learn-memory-management-c)                          |
+| Learn Computer Architecture and Hardware | ARM                                                                                  |
+| Learn Golang                             | [Go](https://www.boot.dev/courses/learn-golang)                                      |
+| Learn Networking                         | Go                                                                                   |
+| Learn HTTP Clients                       | [Go](https://www.boot.dev/courses/learn-http-clients-golang)                         |
+| Build a Pokedex                          | [Go](https://www.boot.dev/courses/build-pokedex-cli-golang)                          |
+| Learn SQL                                | [SQL](https://www.boot.dev/courses/learn-sql)                                        |
+| Learn Cryptography                       | [Go](https://www.boot.dev/courses/learn-cryptography-golang)                         |
+| Learn Operating Systems                  | Go                                                                                   |
+| Learn Compilers                          | Go                                                                                   |
+| Learn Discrete Math for Programmers      | Go                                                                                   |
+| Learn Distributed Systems                | Go                                                                                   |
+| Learn Computational Theory               | Go                                                                                   |
+| Learn Functional Programming 2           | OCaml                                                                                |
 
 ## Notes
 
-### Future Learning Path Ideas
-
-Likely next candidates include:
-
-1. Data Engineering / AI Stuff
-2. Embedded
-3. Game Dev
-4. Cyber Security
-5. Front End (lol jk)
-
 ### Future Course Ideas
 
-- Learn Functional Programming 2 (OCaml/Elixir)
-- Learn Computer Architecture and Hardware (ARM)
-- Learn Distributed Systems (Go)
-- Learn Computer Networking (Go)
 - Learn NoSQL Databases (???)
 - Learn Performance Engineering (Go)
 - Learn Clean Code (Go)
 - Learn Discrete Math for Programmers (Go)
-- Learn Operating Systems (???)
-- Learn Compilers (Go)
-- Learn Computational Theory (???)
 - Learn Artificial Intelligence (Python)
 - Learn Machine Learning (Python)
 - Learn GraphQL
