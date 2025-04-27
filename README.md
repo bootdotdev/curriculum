@@ -11,11 +11,16 @@ This is a living roadmap for [Boot.dev's free-to-read computer science and progr
 ## Table of Contents
 
 - [Backend Developer Career Path](#backend-developer-career-path)
-- [DevOps Career Path](#devops-career-path)
+  - [Python/Go](#pythongo)
+  - [Python/TypeScript](#pythontypescript)
 - [Data Analyst Career Path](#data-analyst-career-path)
+- [DevOps Career Path](#devops-career-path)
+- [Computer Science Learning Path](#computer-science-learning-path)
 - [Notes](#notes)
 
-## Backend Developer Career Path - Python/Go
+## Backend Developer Career Path
+
+### Python/Go
 
 | Course Name                          | Links                                                                                        |
 | ------------------------------------ | -------------------------------------------------------------------------------------------- |
@@ -46,7 +51,7 @@ This is a living roadmap for [Boot.dev's free-to-read computer science and progr
 | Capstone Project                     | [Your choice](https://www.boot.dev/courses/build-capstone-project)                           |
 | Learn to Find a Job                  | [Job Search](https://www.boot.dev/courses/learn-job-search)                                  |
 
-## Backend Developer Career Path - Python/TypeScript
+### Python/TypeScript
 
 | Course Name                          | Links                                                                                                    |
 | ------------------------------------ | -------------------------------------------------------------------------------------------------------- |
@@ -78,11 +83,13 @@ This is a living roadmap for [Boot.dev's free-to-read computer science and progr
 | Capstone Project                     | [Your choice](https://www.boot.dev/courses/build-capstone-project)                                       |
 | Learn to Find a Job                  | [Job Search](https://www.boot.dev/courses/learn-job-search)                                              |
 
-## Data Analyst Career Path - Python/SQL
+## Data Analyst Career Path
 
 _wip/planned_
 
-| Course Name                           | Option Link                                                                     |
+### Python/SQL
+
+| Course Name                           | Links                                                                           |
 | ------------------------------------- | ------------------------------------------------------------------------------- |
 | Learn Coding Basics                   | [Python](https://www.boot.dev/courses/learn-code-python)                        |
 | Learn Linux                           | [Bash/Zsh](https://www.boot.dev/courses/learn-linux)                            |
@@ -102,11 +109,13 @@ _wip/planned_
 | Capstone Project                      | [Your choice](https://www.boot.dev/courses/build-capstone-project)              |
 | Learn to Find a Job                   | [Job Search](https://www.boot.dev/courses/learn-job-search)                     |
 
-## DevOps Career Path - Python/Go
+## DevOps Career Path
 
 _wip/planned_
 
-| Course Name                       | Option Link                                                                            |
+### Python/Go
+
+| Course Name                       | Links                                                                                  |
 | --------------------------------- | -------------------------------------------------------------------------------------- |
 | Learn Coding Basics               | [Python](https://www.boot.dev/courses/learn-code-python)                               |
 | Learn Linux                       | [Bash/Zsh](https://www.boot.dev/courses/learn-linux)                                   |
@@ -133,7 +142,9 @@ _wip/planned_
 | Capstone Project                  | [Your choice](https://www.boot.dev/courses/build-capstone-project)                     |
 | Learn to Find a Job               | [Job Search](https://www.boot.dev/courses/learn-job-search)                            |
 
-## Computer Science Learning Path - Python/Go
+## Computer Science Learning Path
+
+### Python/Go
 
 | Course Name                              | Links                                                                                |
 | ---------------------------------------- | ------------------------------------------------------------------------------------ |
