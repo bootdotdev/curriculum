@@ -8,13 +8,6 @@ This is a living roadmap for [Boot.dev's free-to-read computer science and progr
 
 ⭐ Hit this repo with a star if you find the roadmap useful! ⭐
 
-## Table of Contents
-
-- [Backend Developer Career Path](#backend-developer-career-path)
-- [DevOps Career Path](#devops-career-path)
-- [Data Analyst Career Path](#data-analyst-career-path)
-- [Notes](#notes)
-
 ## Backend Developer Career Path - Python/Go
 
 | Course Name                          | Links                                                                                        |
