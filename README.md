@@ -63,7 +63,7 @@ This is a living roadmap for [Boot.dev's free-to-read computer science and progr
 | Learn Memory Management              | [C](https://www.boot.dev/courses/learn-memory-management-c)                                              |
 | Personal Project 1                   | [Your choice](https://www.boot.dev/courses/build-personal-project-1)                                     |
 | Learn JavaScript                     | [JavaScript](https://www.boot.dev/courses/learn-javascript)                                              |
-| Learn TypeScript                     | TypeScript                                                                                               |
+| Learn TypeScript                     | [TypeScript](https://www.boot.dev/courses/learn-typescript)                                              |
 | Learn Networking                     | TypeScript                                                                                               |
 | Learn HTTP Clients                   | [TypeScript](https://www.boot.dev/courses/learn-http-clients-typescript)                                 |
 | Build a Pokedex                      | [TypeScript](https://www.boot.dev/courses/build-pokedex-cli-typescript)                                  |
