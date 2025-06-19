@@ -19,7 +19,7 @@ This is a living roadmap for [Boot.dev's free-to-read computer science and progr
 | Learn Object Oriented Programming    | [Python](https://www.boot.dev/courses/learn-object-oriented-programming-python)              |
 | Build an Asteroids Game              | [Python](https://www.boot.dev/courses/build-asteroids-python)                                |
 | Learn Functional Programming         | [Python](https://www.boot.dev/courses/learn-functional-programming-python)                   |
-| Build an AI Agent                    | Python                                                                                       |
+| Build an AI Agent                    | [Python](https://www.boot.dev/courses/build-ai-agent-python)                                 |
 | Learn Data Structures and Algorithms | [Python](https://www.boot.dev/courses/learn-data-structures-and-algorithms-python)           |
 | Build a Static Site Generator        | [Python](https://www.boot.dev/courses/build-static-site-generator-python)                    |
 | Learn Memory Management              | [C](https://www.boot.dev/courses/learn-memory-management-c)                                  |
@@ -48,7 +48,7 @@ This is a living roadmap for [Boot.dev's free-to-read computer science and progr
 | Learn Object Oriented Programming    | [Python](https://www.boot.dev/courses/learn-object-oriented-programming-python)                          |
 | Build an Asteroids Game              | [Python](https://www.boot.dev/courses/build-asteroids-python)                                            |
 | Learn Functional Programming         | [Python](https://www.boot.dev/courses/learn-functional-programming-python)                               |
-| Build an AI Agent                    | Python                                                                                                   |
+| Build an AI Agent                    | [Python](https://www.boot.dev/courses/build-ai-agent-python)                                             |
 | Learn Data Structures and Algorithms | [Python](https://www.boot.dev/courses/learn-data-structures-and-algorithms-python)                       |
 | Build a Static Site Generator        | [Python](https://www.boot.dev/courses/build-static-site-generator-python)                                |
 | Learn Memory Management              | [C](https://www.boot.dev/courses/learn-memory-management-c)                                              |
@@ -112,7 +112,7 @@ _wip/planned_
 | Learn Object Oriented Programming          | [Python](https://www.boot.dev/courses/learn-object-oriented-programming-python) |
 | Build an Asteroids Game                    | [Python](https://www.boot.dev/courses/build-asteroids-python)                   |
 | Learn Functional Programming               | [Python](https://www.boot.dev/courses/learn-functional-programming-python)      |
-| Build an AI Agent                          | Python                                                                          |
+| Build an AI Agent                          | [Python](https://www.boot.dev/courses/build-ai-agent-python)                    |
 | Learn HTTP Clients                         | Python                                                                          |
 | Learn Data Collection                      | Python                                                                          |
 | Build a Web Crawler                        | Python                                                                          |
@@ -133,7 +133,7 @@ _wip/planned_
 | Learn Object Oriented Programming          | [Python](https://www.boot.dev/courses/learn-object-oriented-programming-python)      |
 | Build an Asteroids Game                    | [Python](https://www.boot.dev/courses/build-asteroids-python)                        |
 | Learn Functional Programming               | [Python](https://www.boot.dev/courses/learn-functional-programming-python)           |
-| Build an AI Agent                          | Python                                                                               |
+| Build an AI Agent                          | [Python](https://www.boot.dev/courses/build-ai-agent-python)                         |
 | Learn Data Structures and Algorithms       | [Python](https://www.boot.dev/courses/learn-data-structures-and-algorithms-python)   |
 | Build a Static Site Generator              | [Python](https://www.boot.dev/courses/build-static-site-generator-python)            |
 | Learn Data Structures and Algorithms 2     | [Python](https://www.boot.dev/courses/learn-data-structures-and-algorithms-python-2) |
@@ -163,7 +163,6 @@ _wip/planned_
 - Learn Clean Code (Go)
 - Learn Discrete Math for Programmers (Go)
 - Learn Artificial Intelligence (Python)
-- Learn Machine Learning (Python)
 - Learn GraphQL
 - Learn AWS/GCP/Azure
 
