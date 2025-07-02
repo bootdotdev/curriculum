@@ -102,57 +102,59 @@ _wip/planned_
 
 _wip/planned_
 
-| Course Name                                | Option Link                                                                     |
-| ------------------------------------------ | ------------------------------------------------------------------------------- |
-| Learn Coding Basics                        | [Python](https://www.boot.dev/courses/learn-code-python)                        |
-| Learn Linux                                | [Bash/Zsh](https://www.boot.dev/courses/learn-linux)                            |
-| Learn Git                                  | [Git](https://www.boot.dev/courses/learn-git)                                   |
-| Build a Bookbot                            | [Python](https://www.boot.dev/courses/build-bookbot-python)                     |
-| Learn SQL                                  | [SQL](https://www.boot.dev/courses/learn-sql)                                   |
-| Learn Object Oriented Programming          | [Python](https://www.boot.dev/courses/learn-object-oriented-programming-python) |
-| Build an Asteroids Game                    | [Python](https://www.boot.dev/courses/build-asteroids-python)                   |
-| Learn Functional Programming               | [Python](https://www.boot.dev/courses/learn-functional-programming-python)      |
-| Build an AI Agent                          | [Python](https://www.boot.dev/courses/build-ai-agent-python)                    |
-| Learn HTTP Clients                         | Python                                                                          |
-| Learn Data Collection                      | Python                                                                          |
-| Build a Web Crawler                        | Python                                                                          |
-| Learn Statistics for Programmers           | Python                                                                          |
-| Learn Data Visualization and BI Tools      | Python                                                                          |
-| Learn Retrieval Augmented Generation (RAG) | Python                                                                          |
-| Capstone Project                           | [Your choice](https://www.boot.dev/courses/build-capstone-project)              |
-| Learn to Find a Job                        | [Job Search](https://www.boot.dev/courses/learn-job-search)                     |
+| Course Name                          | Option Link                                                                     |
+| ------------------------------------ | ------------------------------------------------------------------------------- |
+| Learn Coding Basics                  | [Python](https://www.boot.dev/courses/learn-code-python)                        |
+| Learn Linux                          | [Bash/Zsh](https://www.boot.dev/courses/learn-linux)                            |
+| Learn Git                            | [Git](https://www.boot.dev/courses/learn-git)                                   |
+| Build a Bookbot                      | [Python](https://www.boot.dev/courses/build-bookbot-python)                     |
+| Learn Spreadsheets                   | Google Sheets                                                                   |
+| Learn SQL                            | [SQL](https://www.boot.dev/courses/learn-sql)                                   |
+| Learn Object Oriented Programming    | [Python](https://www.boot.dev/courses/learn-object-oriented-programming-python) |
+| Build an Asteroids Game              | [Python](https://www.boot.dev/courses/build-asteroids-python)                   |
+| Learn Functional Programming         | [Python](https://www.boot.dev/courses/learn-functional-programming-python)      |
+| Build an AI Agent                    | [Python](https://www.boot.dev/courses/build-ai-agent-python)                    |
+| Learn HTTP Clients                   | Python                                                                          |
+| Build a Web Scraper                  | [Python](https://www.boot.dev/courses/build-web-scraper-python)                 |
+| Learn Data Manipulation              | Python + Pandas + NumPy                                                         |
+| Learn Data Visualization and BI      | Python + Tableau                                                                |
+| Learn Retrieval Augmented Generation | Python                                                                          |
+| Capstone Project                     | [Your choice](https://www.boot.dev/courses/build-capstone-project)              |
+| Learn to Find a Job                  | [Job Search](https://www.boot.dev/courses/learn-job-search)                     |
 
 ## Computer Science Learning Path - Python/Go
 
-| Course Name                                | Links                                                                                |
-| ------------------------------------------ | ------------------------------------------------------------------------------------ |
-| Learn Coding Basics                        | [Python](https://www.boot.dev/courses/learn-code-python)                             |
-| Learn Linux                                | [Bash/Zsh](https://www.boot.dev/courses/learn-linux)                                 |
-| Learn Git                                  | [Git](https://www.boot.dev/courses/learn-git)                                        |
-| Build a Bookbot                            | [Python](https://www.boot.dev/courses/build-bookbot-python)                          |
-| Learn Object Oriented Programming          | [Python](https://www.boot.dev/courses/learn-object-oriented-programming-python)      |
-| Build an Asteroids Game                    | [Python](https://www.boot.dev/courses/build-asteroids-python)                        |
-| Learn Functional Programming               | [Python](https://www.boot.dev/courses/learn-functional-programming-python)           |
-| Build an AI Agent                          | [Python](https://www.boot.dev/courses/build-ai-agent-python)                         |
-| Learn Data Structures and Algorithms       | [Python](https://www.boot.dev/courses/learn-data-structures-and-algorithms-python)   |
-| Build a Static Site Generator              | [Python](https://www.boot.dev/courses/build-static-site-generator-python)            |
-| Learn Data Structures and Algorithms 2     | [Python](https://www.boot.dev/courses/learn-data-structures-and-algorithms-python-2) |
-| Build a Maze Solver                        | [Python](https://www.boot.dev/courses/build-maze-solver-python)                      |
-| Learn Retrieval Augmented Generation (RAG) | Python                                                                               |
-| Learn Memory Management                    | [C](https://www.boot.dev/courses/learn-memory-management-c)                          |
-| Learn Computer Architecture and Hardware   | ARM                                                                                  |
-| Learn Golang                               | [Go](https://www.boot.dev/courses/learn-golang)                                      |
-| Learn Networking                           | Go                                                                                   |
-| Learn HTTP Clients                         | [Go](https://www.boot.dev/courses/learn-http-clients-golang)                         |
-| Build a Pokedex                            | [Go](https://www.boot.dev/courses/build-pokedex-cli-golang)                          |
-| Learn SQL                                  | [SQL](https://www.boot.dev/courses/learn-sql)                                        |
-| Learn Cryptography                         | [Go](https://www.boot.dev/courses/learn-cryptography-golang)                         |
-| Learn Operating Systems                    | Go                                                                                   |
-| Learn Compilers                            | Go                                                                                   |
-| Learn Discrete Math for Programmers        | Go                                                                                   |
-| Learn Distributed Systems                  | Go                                                                                   |
-| Learn Computational Theory                 | Go                                                                                   |
-| Learn Functional Programming 2             | OCaml                                                                                |
+_wip/planned_
+
+| Course Name                              | Links                                                                                |
+| ---------------------------------------- | ------------------------------------------------------------------------------------ |
+| Learn Coding Basics                      | [Python](https://www.boot.dev/courses/learn-code-python)                             |
+| Learn Linux                              | [Bash/Zsh](https://www.boot.dev/courses/learn-linux)                                 |
+| Learn Git                                | [Git](https://www.boot.dev/courses/learn-git)                                        |
+| Build a Bookbot                          | [Python](https://www.boot.dev/courses/build-bookbot-python)                          |
+| Learn Object Oriented Programming        | [Python](https://www.boot.dev/courses/learn-object-oriented-programming-python)      |
+| Build an Asteroids Game                  | [Python](https://www.boot.dev/courses/build-asteroids-python)                        |
+| Learn Functional Programming             | [Python](https://www.boot.dev/courses/learn-functional-programming-python)           |
+| Build an AI Agent                        | [Python](https://www.boot.dev/courses/build-ai-agent-python)                         |
+| Learn Data Structures and Algorithms     | [Python](https://www.boot.dev/courses/learn-data-structures-and-algorithms-python)   |
+| Build a Static Site Generator            | [Python](https://www.boot.dev/courses/build-static-site-generator-python)            |
+| Learn Data Structures and Algorithms 2   | [Python](https://www.boot.dev/courses/learn-data-structures-and-algorithms-python-2) |
+| Build a Maze Solver                      | [Python](https://www.boot.dev/courses/build-maze-solver-python)                      |
+| Learn Retrieval Augmented Generation     | Python                                                                               |
+| Learn Memory Management                  | [C](https://www.boot.dev/courses/learn-memory-management-c)                          |
+| Learn Computer Architecture and Hardware | ARM                                                                                  |
+| Learn Golang                             | [Go](https://www.boot.dev/courses/learn-golang)                                      |
+| Learn Networking                         | Go                                                                                   |
+| Learn HTTP Clients                       | [Go](https://www.boot.dev/courses/learn-http-clients-golang)                         |
+| Build a Pokedex                          | [Go](https://www.boot.dev/courses/build-pokedex-cli-golang)                          |
+| Learn SQL                                | [SQL](https://www.boot.dev/courses/learn-sql)                                        |
+| Learn Cryptography                       | [Go](https://www.boot.dev/courses/learn-cryptography-golang)                         |
+| Learn Operating Systems                  | Go                                                                                   |
+| Learn Compilers                          | Go                                                                                   |
+| Learn Discrete Math for Programmers      | Go                                                                                   |
+| Learn Distributed Systems                | Go                                                                                   |
+| Learn Computational Theory               | Go                                                                                   |
+| Learn Functional Programming 2           | OCaml                                                                                |
 
 ## Notes
 
