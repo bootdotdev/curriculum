@@ -85,7 +85,6 @@ _wip/planned_
 | Learn Golang                      | [Go](https://www.boot.dev/courses/learn-golang)                                        |
 | Learn Networking                  | Go                                                                                     |
 | Learn HTTP Clients                | [Go](https://www.boot.dev/courses/learn-http-clients-golang)                           |
-| Learn HTTP Clients                | [Python](https://www.boot.dev/courses/learn-http-clients-python)                       |
 | Build a Pokedex                   | [Go](https://www.boot.dev/courses/build-pokedex-cli-golang)                            |
 | Learn SQL                         | [SQL](https://www.boot.dev/courses/learn-sql)                                          |
 | Learn Operating Systems           | Go                                                                                     |
