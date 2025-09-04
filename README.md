@@ -26,6 +26,8 @@ _Learning paths are made up of a series of courses_.
 
 Feel free to browse the curricula above and reach out if you're interested in authoring one of the yet-to-be-released courses (the ones without links). We are always looking to hire talented authors to help us create high-quality content.
 
+More info on authorship and how to [contact us can be found here](https://blog.boot.dev/create-a-course/).
+
 ## Philosophy
 
 You can read about our [approach to learning here](https://blog.boot.dev/about/).
