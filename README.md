@@ -115,7 +115,7 @@ _wip/planned_
 | Build an Asteroids Game              | [Python](https://www.boot.dev/courses/build-asteroids-python)                   |
 | Learn Functional Programming         | [Python](https://www.boot.dev/courses/learn-functional-programming-python)      |
 | Build an AI Agent                    | [Python](https://www.boot.dev/courses/build-ai-agent-python)                    |
-| Learn HTTP Clients                   | Python                                                                          |
+| Learn HTTP Clients                   | [Python](https://www.boot.dev/courses/learn-http-clients-python)                |
 | Build a Web Scraper                  | [Python](https://www.boot.dev/courses/build-web-scraper-python)                 |
 | Learn Data Manipulation              | Python + Pandas + NumPy                                                         |
 | Learn Data Visualization and BI      | Looker Studio + Big Query                                                       |
