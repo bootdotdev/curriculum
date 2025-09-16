@@ -55,6 +55,6 @@
 | Learn File Storage and CDNs          | [TypeScript + S3 + CloudFront](https://www.boot.dev/courses/learn-file-servers-s3-cloudfront-typescript) |
 | Learn Docker                         | [Docker](https://www.boot.dev/courses/learn-docker)                                                      |
 | Learn Web Security                   | TypeScript                                                                                               |
-| Learn Pub/Sub Architecture           | TypeScript                                                                                               |
+| Learn Pub/Sub Architecture           | [TypeScript](https://www.boot.dev/courses/learn-pub-sub-rabbitmq-typescript)                             |
 | Capstone Project                     | [Your choice](https://www.boot.dev/courses/build-capstone-project)                                       |
 | Learn to Find a Job                  | [Job Search](https://www.boot.dev/courses/learn-job-search)                                              |

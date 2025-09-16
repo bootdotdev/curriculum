@@ -21,6 +21,7 @@ _wip/planned_
 | Learn Retrieval Augmented Generation     | Python                                                                               |
 | Learn Memory Management                  | [C](https://www.boot.dev/courses/learn-memory-management-c)                          |
 | Learn Computer Architecture and Hardware | ARM                                                                                  |
+| Learn Elixir                             | Elixir                                                                               |
 | Learn Golang                             | [Go](https://www.boot.dev/courses/learn-golang)                                      |
 | Learn Networking                         | Go                                                                                   |
 | Learn HTTP Clients                       | [Go](https://www.boot.dev/courses/learn-http-clients-golang)                         |
@@ -32,4 +33,3 @@ _wip/planned_
 | Learn Discrete Math for Programmers      | Go                                                                                   |
 | Learn Distributed Systems                | Go                                                                                   |
 | Learn Computational Theory               | Go                                                                                   |
-| Learn Functional Programming 2           | OCaml                                                                                |

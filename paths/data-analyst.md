@@ -19,7 +19,7 @@ _wip/planned_
 | Learn HTTP Clients                   | [Python](https://www.boot.dev/courses/learn-http-clients-python)                |
 | Build a Web Scraper                  | [Python](https://www.boot.dev/courses/build-web-scraper-python)                 |
 | Learn Data Manipulation              | Python + Pandas + NumPy                                                         |
-| Learn Data Visualization and BI      | Looker Studio + Big Query                                                       |
+| Learn Data Visualization and BI      | Power BI + Big Query                                                            |
 | Learn Retrieval Augmented Generation | Python                                                                          |
 | Capstone Project                     | [Your choice](https://www.boot.dev/courses/build-capstone-project)              |
 | Learn to Find a Job                  | [Job Search](https://www.boot.dev/courses/learn-job-search)                     |
