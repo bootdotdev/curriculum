@@ -24,7 +24,8 @@ _wip/planned_
 | Learn Server Administration       | Bash                                                                                   |
 | Learn Docker                      | [Docker](https://www.boot.dev/courses/learn-docker)                                    |
 | Learn CI/CD                       | [Docker + GitHub Actions + Go](https://www.boot.dev/courses/learn-ci-cd-github-docker) |
-| Learn Cloud Infrastructure        | Terraform                                                                              |
+| Learn Cloud Infrastructure        | AWS                                                                                    |
+| Learn Infrastructure as Code      | Terraform                                                                              |
 | Learn Kubernetes                  | [Kubernetes](https://www.boot.dev/courses/learn-kubernetes)                            |
 | Learn Logging and Telemetry       | Go                                                                                     |
 | Learn Web Security                | Go                                                                                     |
