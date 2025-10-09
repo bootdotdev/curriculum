@@ -20,6 +20,6 @@ _wip/planned_
 | Build a Web Scraper                  | [Python](https://www.boot.dev/courses/build-web-scraper-python)                 |
 | Learn Data Manipulation              | Python + Pandas + NumPy                                                         |
 | Learn Data Visualization and BI      | Power BI + Big Query                                                            |
-| Learn Retrieval Augmented Generation | Python                                                                          |
+| Learn Retrieval Augmented Generation | [Python](https://www.boot.dev/courses/learn-retrieval-augmented-generation)     |
 | Capstone Project                     | [Your choice](https://www.boot.dev/courses/build-capstone-project)              |
 | Learn to Find a Job                  | [Job Search](https://www.boot.dev/courses/learn-job-search)                     |
