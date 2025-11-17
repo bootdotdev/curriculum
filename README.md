@@ -19,6 +19,8 @@ _Learning paths are made up of a series of courses_.
   - Python & SQL
 - [DevOps Career Path (wip/planned)](paths/devops.md)
   - Python & Go
+- [Fullstack Developer Career Path (wip/planned)](paths/fullstack.md)
+  - Python & TypeScript
 - [Computer Science Learning Path (wip/planned)](paths/computer-science.md)
   - Python & Go
 
