@@ -18,7 +18,7 @@ _wip/planned_
 | Build a Static Site Generator            | [Python](https://www.boot.dev/courses/build-static-site-generator-python)            |
 | Learn Data Structures and Algorithms 2   | [Python](https://www.boot.dev/courses/learn-data-structures-and-algorithms-python-2) |
 | Build a Maze Solver                      | [Python](https://www.boot.dev/courses/build-maze-solver-python)                      |
-| Learn Retrieval Augmented Generation     | Python                                                                               |
+| Learn Retrieval Augmented Generation     | [Python](https://www.boot.dev/courses/learn-retrieval-augmented-generation)          |
 | Learn Memory Management                  | [C](https://www.boot.dev/courses/learn-memory-management-c)                          |
 | Learn Computer Architecture and Hardware | ARM                                                                                  |
 | Learn Elixir                             | Elixir                                                                               |
