@@ -42,5 +42,5 @@ You can read about our [approach to learning here](https://blog.boot.dev/about/)
 
 If you would like to discuss the project feel free to [contact us at Boot.dev](https://blog.boot.dev/contact/). We're most responsive on Discord, but you can also find us on Twitter.
 
-- [Twitter](https://twitter.com/bootdotdev)
+- [ X ](https://x.com/bootdotdev)
 - [Discord](https://www.boot.dev/community)
