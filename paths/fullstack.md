@@ -28,5 +28,6 @@
 | Learn React                          | React                                                                              |
 | Learn Next.js                        | Next.js                                                                            |
 | Learn Web Security                   | TypeScript                                                                         |
+| Learn AI Coding                      | TypeScript                                                                         |
 | Capstone Project                     | [Your choice](https://www.boot.dev/courses/build-capstone-project)                 |
 | Learn to Find a Job                  | [Job Search](https://www.boot.dev/courses/learn-job-search)                        |

@@ -26,6 +26,7 @@
 | Learn Docker                         | [Docker](https://www.boot.dev/courses/learn-docker)                                          |
 | Learn Web Security                   | Go                                                                                           |
 | Learn Pub/Sub Architecture           | [Go](https://www.boot.dev/courses/learn-pub-sub-rabbitmq)                                    |
+| Learn AI Coding                      | Go                                                                                           |
 | Capstone Project                     | [Your choice](https://www.boot.dev/courses/build-capstone-project)                           |
 | Learn to Find a Job                  | [Job Search](https://www.boot.dev/courses/learn-job-search)                                  |
 
@@ -56,5 +57,6 @@
 | Learn Docker                         | [Docker](https://www.boot.dev/courses/learn-docker)                                                      |
 | Learn Web Security                   | TypeScript                                                                                               |
 | Learn Pub/Sub Architecture           | [TypeScript](https://www.boot.dev/courses/learn-pub-sub-rabbitmq-typescript)                             |
+| Learn AI Coding                      | TypeScript                                                                                               |
 | Capstone Project                     | [Your choice](https://www.boot.dev/courses/build-capstone-project)                                       |
 | Learn to Find a Job                  | [Job Search](https://www.boot.dev/courses/learn-job-search)                                              |
