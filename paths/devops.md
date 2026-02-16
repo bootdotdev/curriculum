@@ -29,6 +29,6 @@ _wip/planned_
 | Learn Kubernetes                  | [Kubernetes](https://www.boot.dev/courses/learn-kubernetes)                            |
 | Learn Logging and Telemetry       | Go                                                                                     |
 | Learn Web Security                | Go                                                                                     |
-| Learn AI Coding                   | Go                                                                                     |
+| Learn AI Coding                   | Python + OpenCode                                                                      |
 | Capstone Project                  | [Your choice](https://www.boot.dev/courses/build-capstone-project)                     |
 | Learn to Find a Job               | [Job Search](https://www.boot.dev/courses/learn-job-search)                            |

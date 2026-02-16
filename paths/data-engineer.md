@@ -29,6 +29,6 @@ _wip/planned_
 | Learn Docker                         | [Docker](https://www.boot.dev/courses/learn-docker)                                |
 | Learn OLAP                           | Go & DuckDB                                                                        |
 | Learn ETL                            | Go                                                                                 |
-| Learn AI Coding                      | Go                                                                                 |
+| Learn AI Coding                      | Python + OpenCode                                                                  |
 | Capstone Project                     | [Your choice](https://www.boot.dev/courses/build-capstone-project)                 |
 | Learn to Find a Job                  | [Job Search](https://www.boot.dev/courses/learn-job-search)                        |
