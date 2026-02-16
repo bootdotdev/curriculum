@@ -8,8 +8,8 @@ _wip/planned_
 | ------------------------------------ | ------------------------------------------------------------------------------- |
 | Learn Coding Basics                  | [Python](https://www.boot.dev/courses/learn-code-python)                        |
 | Learn Linux                          | [Bash/Zsh](https://www.boot.dev/courses/learn-linux)                            |
-| Learn Git                            | [Git](https://www.boot.dev/courses/learn-git)                                   |
 | Build a Bookbot                      | [Python](https://www.boot.dev/courses/build-bookbot-python)                     |
+| Learn Git                            | [Git](https://www.boot.dev/courses/learn-git)                                   |
 | Learn Spreadsheets                   | Google Sheets                                                                   |
 | Learn SQL                            | [SQL](https://www.boot.dev/courses/learn-sql)                                   |
 | Learn Object Oriented Programming    | [Python](https://www.boot.dev/courses/learn-object-oriented-programming-python) |

@@ -19,6 +19,8 @@ _Learning paths are made up of a series of courses_.
   - Python & SQL
 - [DevOps Career Path (wip/planned)](paths/devops.md)
   - Python & Go
+- [Data Engineer Career Path (wip/planned)](paths/data-engineer.md)
+  - Python & Go
 - [Fullstack Developer Career Path (wip/planned)](paths/fullstack.md)
   - Python & TypeScript
 - [Computer Science Learning Path (wip/planned)](paths/computer-science.md)
@@ -28,11 +30,11 @@ _Learning paths are made up of a series of courses_.
 
 Feel free to browse the curricula above and reach out if you're interested in authoring one of the yet-to-be-released courses (the ones without links). We are always looking to hire talented authors to help us create high-quality content.
 
-More info on authorship and how to [contact us can be found here](https://blog.boot.dev/create-a-course/).
+More info on authorship and how to [contact us can be found here](https://www.boot.dev/create-a-course).
 
 ## Philosophy
 
-You can read about our [approach to learning here](https://blog.boot.dev/about/).
+You can read about our [approach to learning here](https://www.boot.dev/about/).
 
 ## Should I start learning even though a learning path isn't "complete"?
 
@@ -40,7 +42,7 @@ You can read about our [approach to learning here](https://blog.boot.dev/about/)
 
 ### 💬 Contact
 
-If you would like to discuss the project feel free to [contact us at Boot.dev](https://blog.boot.dev/contact/). We're most responsive on Discord, but you can also find us on Twitter.
+If you would like to discuss the project feel free to [contact us at Boot.dev](https://www.boot.dev/contact/). We're most responsive on Discord, but you can also find us on Twitter.
 
 - [ X ](https://x.com/bootdotdev)
 - [Discord](https://www.boot.dev/community)
