@@ -18,11 +18,11 @@ _wip/planned_
 | Learn Operating Systems           | Go                                                                                     |
 | Learn Networking                  | Go                                                                                     |
 | Learn HTTP Clients                | [Go](https://www.boot.dev/courses/learn-http-clients-golang)                           |
-| Build a Pokedex                   | [Go](https://www.boot.dev/courses/build-pokedex-cli-golang)                            |
 | Learn SQL                         | [SQL](https://www.boot.dev/courses/learn-sql)                                          |
 | Learn HTTP Servers                | [Go](https://www.boot.dev/courses/learn-http-servers-golang)                           |
 | Learn Logging and Telemetry       | Go                                                                                     |
 | Learn Server Administration       | Bash                                                                                   |
+| Learn Ansible                     | Ansible                                                                                |
 | Learn Docker                      | [Docker](https://www.boot.dev/courses/learn-docker)                                    |
 | Learn CI/CD                       | [Docker + GitHub Actions + Go](https://www.boot.dev/courses/learn-ci-cd-github-docker) |
 | Learn Cloud Infrastructure        | AWS                                                                                    |

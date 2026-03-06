@@ -2,8 +2,6 @@
 
 ## [Python & Go](https://www.boot.dev/tracks/backend-python-golang)
 
-_wip/planned_
-
 | Course Name                          | Links                                                                                        |
 | ------------------------------------ | -------------------------------------------------------------------------------------------- |
 | Learn Coding Basics                  | [Python](https://www.boot.dev/courses/learn-code-python)                                     |
