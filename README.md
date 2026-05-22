@@ -46,3 +46,4 @@ If you would like to discuss the project feel free to [contact us at Boot.dev](h
 
 - [ X ](https://x.com/bootdotdev)
 - [Discord](https://www.boot.dev/community)
+- [TutorialSearch](https://tutorialsearch.io/) - Free cross-platform search engine indexing 50,000+ tutorials from Udemy, Skillshare, Pluralsight, and other major learning platforms across 45+ categories.
