@@ -25,7 +25,7 @@
 | Learn File Storage and CDNs          | [Go + S3 + CloudFront](https://www.boot.dev/courses/learn-file-servers-s3-cloudfront-golang) |
 | Learn Docker                         | [Docker](https://www.boot.dev/courses/learn-docker)                                          |
 | Learn Document Databases             | Go + Mongo                                                                                   |
-| Learn Web Security                   | Go                                                                                           |
+| Learn Web Security                   | [Go](https://www.boot.dev/courses/learn-web-security-golang)                                 |
 | Learn Pub/Sub Architecture           | [Go](https://www.boot.dev/courses/learn-pub-sub-rabbitmq)                                    |
 | Learn In-Memory Databases            | Go + Redis                                                                                   |
 | Learn AI Coding                      | Python + OpenCode                                                                            |
@@ -58,7 +58,7 @@
 | Learn File Storage and CDNs          | [TypeScript + S3 + CloudFront](https://www.boot.dev/courses/learn-file-servers-s3-cloudfront-typescript) |
 | Learn Docker                         | [Docker](https://www.boot.dev/courses/learn-docker)                                                      |
 | Learn Document Databases             | TypeScript + Mongo                                                                                       |
-| Learn Web Security                   | TypeScript                                                                                               |
+| Learn Web Security                   | [TypeScript](https://www.boot.dev/courses/learn-web-security-typescript)                                 |
 | Learn Pub/Sub Architecture           | [TypeScript](https://www.boot.dev/courses/learn-pub-sub-rabbitmq-typescript)                             |
 | Learn In-Memory Databases            | TypeScript + Redis                                                                                       |
 | Learn AI Coding                      | Python + OpenCode                                                                                        |
