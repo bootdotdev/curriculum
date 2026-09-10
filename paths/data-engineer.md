@@ -9,15 +9,15 @@ _wip/planned_
 | Learn Coding Basics                  | [Python](https://www.boot.dev/courses/learn-code-python)                           |
 | Learn Linux                          | [Bash/Zsh](https://www.boot.dev/courses/learn-linux)                               |
 | Build a Bookbot                      | [Python](https://www.boot.dev/courses/build-bookbot-python)                        |
-| Learn Shell Scripting                | Bash                                                                               |
+| Learn Bash Shell                     | Bash                                                                               |
 | Learn Git                            | [Git](https://www.boot.dev/courses/learn-git)                                      |
 | Learn Object Oriented Programming    | [Python](https://www.boot.dev/courses/learn-object-oriented-programming-python)    |
 | Build an Asteroids Game              | [Python](https://www.boot.dev/courses/build-asteroids-python)                      |
-| Learn Spreadsheets                   | Google Sheets                                                                      |
+| Learn Excel                          | Excel                                                                              |
 | Learn Functional Programming         | [Python](https://www.boot.dev/courses/learn-functional-programming-python)         |
 | Build an AI Agent                    | [Python](https://www.boot.dev/courses/build-ai-agent-python)                       |
 | Learn Data Structures and Algorithms | [Python](https://www.boot.dev/courses/learn-data-structures-and-algorithms-python) |
-| Learn Data Manipulation              | Python + Pandas + NumPy                                                            |
+| Learn Pandas                         | [Python and Pandas](https://www.boot.dev/courses/learn-pandas)                     |
 | Learn Retrieval Augmented Generation | [Python](https://www.boot.dev/courses/learn-retrieval-augmented-generation)        |
 | Personal Project 1                   | [Your choice](https://www.boot.dev/courses/build-personal-project-1)               |
 | Learn Golang                         | [Go](https://www.boot.dev/courses/learn-golang)                                    |

@@ -8,7 +8,7 @@
 | Learn Linux                       | [Bash/Zsh](https://www.boot.dev/courses/learn-linux)                                       |
 | Build a Bookbot                   | [Python](https://www.boot.dev/courses/build-bookbot-python)                                |
 | Learn Git                         | [Git](https://www.boot.dev/courses/learn-git)                                              |
-| Learn Shell Scripting             | Bash                                                                                       |
+| Learn Bash                        | Bash                                                                                       |
 | Learn Object Oriented Programming | [Python](https://www.boot.dev/courses/learn-object-oriented-programming-python)            |
 | Build an Asteroids Game           | [Python](https://www.boot.dev/courses/build-asteroids-python)                              |
 | Personal Project 1                | [Your choice](https://www.boot.dev/courses/build-personal-project-1)                       |
@@ -26,7 +26,6 @@
 | Learn Cloud Infrastructure        | [AWS](https://www.boot.dev/courses/learn-aws)                                              |
 | Learn Infrastructure as Code      | Terraform                                                                                  |
 | Learn Kubernetes                  | [Kubernetes](https://www.boot.dev/courses/learn-kubernetes)                                |
-| Learn Web Security                | Go                                                                                         |
 | Learn AI Coding                   | Python + OpenCode                                                                          |
 | Capstone Project                  | [Your choice](https://www.boot.dev/courses/build-capstone-project)                         |
 | Learn to Find a Job               | [Job Search](https://www.boot.dev/courses/learn-job-search)                                |

@@ -4,7 +4,7 @@
   <img src="https://storage.googleapis.com/qvault-webapp-dynamic-assets/course_assets/wvnt9yl-800x370.png" style="width:200px;" />
 </p>
 
-This is a living roadmap for [Boot.dev's free-to-read computer science and programming curriculum](https://www.boot.dev).
+This is a living roadmap for [Boot.dev's coding curriculum](https://www.boot.dev).
 
 ⭐ Hit this repo with a star if you find the roadmap useful! ⭐
 
@@ -26,12 +26,6 @@ _Learning paths are made up of a series of courses_.
 - [Computer Science Roadmap (wip/planned)](paths/computer-science.md)
   - Python & Go
 
-## Becoming an author
-
-Feel free to browse the curricula above and reach out if you're interested in authoring one of the yet-to-be-released courses (the ones without links). We are always looking to hire talented authors to help us create high-quality content.
-
-More info on authorship and how to [contact us can be found here](https://www.boot.dev/create-a-course).
-
 ## Philosophy
 
 You can read about our [approach to learning here](https://www.boot.dev/about/).
@@ -44,5 +38,5 @@ You can read about our [approach to learning here](https://www.boot.dev/about/).
 
 If you would like to discuss the project feel free to [contact us at Boot.dev](https://www.boot.dev/contact/). We're most responsive on Discord, but you can also find us on Twitter.
 
-- [ X ](https://x.com/bootdotdev)
+- [X](https://x.com/bootdotdev)
 - [Discord](https://www.boot.dev/community)

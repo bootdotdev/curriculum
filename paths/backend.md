@@ -14,7 +14,6 @@
 | Build an AI Agent                    | [Python](https://www.boot.dev/courses/build-ai-agent-python)                                 |
 | Learn Data Structures and Algorithms | [Python](https://www.boot.dev/courses/learn-data-structures-and-algorithms-python)           |
 | Build a Static Site Generator        | [Python](https://www.boot.dev/courses/build-static-site-generator-python)                    |
-| Learn Memory Management              | [C](https://www.boot.dev/courses/learn-memory-management-c)                                  |
 | Personal Project 1                   | [Your choice](https://www.boot.dev/courses/build-personal-project-1)                         |
 | Learn Golang                         | [Go](https://www.boot.dev/courses/learn-golang)                                              |
 | Learn HTTP Clients                   | [Go](https://www.boot.dev/courses/learn-http-clients-golang)                                 |
@@ -24,10 +23,9 @@
 | Learn HTTP Servers                   | [Go](https://www.boot.dev/courses/learn-http-servers-golang)                                 |
 | Learn File Storage and CDNs          | [Go + S3 + CloudFront](https://www.boot.dev/courses/learn-file-servers-s3-cloudfront-golang) |
 | Learn Docker                         | [Docker](https://www.boot.dev/courses/learn-docker)                                          |
-| Learn Document Databases             | Go + Mongo                                                                                   |
-| Learn Web Security                   | Go                                                                                           |
+| Learn Web Security                   | [Go](https://www.boot.dev/courses/learn-web-security-golang)                                 |
 | Learn Pub/Sub Architecture           | [Go](https://www.boot.dev/courses/learn-pub-sub-rabbitmq)                                    |
-| Learn In-Memory Databases            | Go + Redis                                                                                   |
+| Learn Redis                          | Redis                                                                                        |
 | Learn AI Coding                      | Python + OpenCode                                                                            |
 | Capstone Project                     | [Your choice](https://www.boot.dev/courses/build-capstone-project)                           |
 | Learn to Find a Job                  | [Job Search](https://www.boot.dev/courses/learn-job-search)                                  |
@@ -46,7 +44,6 @@
 | Build an AI Agent                    | [Python](https://www.boot.dev/courses/build-ai-agent-python)                                             |
 | Learn Data Structures and Algorithms | [Python](https://www.boot.dev/courses/learn-data-structures-and-algorithms-python)                       |
 | Build a Static Site Generator        | [Python](https://www.boot.dev/courses/build-static-site-generator-python)                                |
-| Learn Memory Management              | [C](https://www.boot.dev/courses/learn-memory-management-c)                                              |
 | Personal Project 1                   | [Your choice](https://www.boot.dev/courses/build-personal-project-1)                                     |
 | Learn JavaScript                     | [JavaScript](https://www.boot.dev/courses/learn-javascript)                                              |
 | Learn TypeScript                     | [TypeScript](https://www.boot.dev/courses/learn-typescript)                                              |
@@ -57,10 +54,9 @@
 | Learn HTTP Servers                   | [TypeScript](https://www.boot.dev/courses/learn-http-servers-typescript)                                 |
 | Learn File Storage and CDNs          | [TypeScript + S3 + CloudFront](https://www.boot.dev/courses/learn-file-servers-s3-cloudfront-typescript) |
 | Learn Docker                         | [Docker](https://www.boot.dev/courses/learn-docker)                                                      |
-| Learn Document Databases             | TypeScript + Mongo                                                                                       |
-| Learn Web Security                   | TypeScript                                                                                               |
+| Learn Web Security                   | [TypeScript](https://www.boot.dev/courses/learn-web-security-typescript)                                 |
 | Learn Pub/Sub Architecture           | [TypeScript](https://www.boot.dev/courses/learn-pub-sub-rabbitmq-typescript)                             |
-| Learn In-Memory Databases            | TypeScript + Redis                                                                                       |
+| Learn Redis                          | Redis                                                                                                    |
 | Learn AI Coding                      | Python + OpenCode                                                                                        |
 | Capstone Project                     | [Your choice](https://www.boot.dev/courses/build-capstone-project)                                       |
 | Learn to Find a Job                  | [Job Search](https://www.boot.dev/courses/learn-job-search)                                              |

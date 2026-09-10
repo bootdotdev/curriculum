@@ -19,6 +19,7 @@ _wip/planned_
 | Learn Data Structures and Algorithms 2   | [Python](https://www.boot.dev/courses/learn-data-structures-and-algorithms-python-2) |
 | Build a Maze Solver                      | [Python](https://www.boot.dev/courses/build-maze-solver-python)                      |
 | Learn Retrieval Augmented Generation     | [Python](https://www.boot.dev/courses/learn-retrieval-augmented-generation)          |
+| Learn C                                  | C                                                                                    |
 | Learn Memory Management                  | [C](https://www.boot.dev/courses/learn-memory-management-c)                          |
 | Learn Computer Architecture and Hardware | ARM                                                                                  |
 | Learn Elixir                             | Elixir                                                                               |
@@ -30,6 +31,5 @@ _wip/planned_
 | Learn Cryptography                       | [Go](https://www.boot.dev/courses/learn-cryptography-golang)                         |
 | Learn Operating Systems                  | Go                                                                                   |
 | Learn Compilers                          | Go                                                                                   |
-| Learn Discrete Math for Programmers      | Go                                                                                   |
 | Learn Distributed Systems                | Go                                                                                   |
 | Learn Computational Theory               | Go                                                                                   |
