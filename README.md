@@ -19,6 +19,8 @@ _Learning paths are made up of a series of courses_.
   - [Python & SQL](https://www.boot.dev/paths/data-analyst?tech=python)
 - [DevOps Roadmap](paths/devops.md)
   - [Python & Go Path on Boot.dev](https://www.boot.dev/paths/devops?tech=python-golang)
+- [AI Engineer Roadmap (wip/planned)](paths/ai-engineer.md)
+  - Python
 - [Data Engineer Roadmap (wip/planned)](paths/data-engineer.md)
   - Python & Go
 - [Fullstack Developer Roadmap (wip/planned)](paths/fullstack.md)
