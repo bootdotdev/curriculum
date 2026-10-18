@@ -26,7 +26,7 @@
 | Learn Web Security                   | [Go](https://www.boot.dev/courses/learn-web-security-golang)                                 |
 | Learn Pub/Sub Architecture           | [Go](https://www.boot.dev/courses/learn-pub-sub-rabbitmq)                                    |
 | Learn Redis                          | Redis                                                                                        |
-| Learn AI Coding                      | Python + OpenCode                                                                            |
+| Learn AI Coding                      | [Python + OpenCode](https://www.boot.dev/courses/learn-ai-coding)                            |
 | Capstone Project                     | [Your choice](https://www.boot.dev/courses/build-capstone-project)                           |
 | Learn to Find a Job                  | [Job Search](https://www.boot.dev/courses/learn-job-search)                                  |
 
@@ -57,6 +57,6 @@
 | Learn Web Security                   | [TypeScript](https://www.boot.dev/courses/learn-web-security-typescript)                                 |
 | Learn Pub/Sub Architecture           | [TypeScript](https://www.boot.dev/courses/learn-pub-sub-rabbitmq-typescript)                             |
 | Learn Redis                          | Redis                                                                                                    |
-| Learn AI Coding                      | Python + OpenCode                                                                                        |
+| Learn AI Coding                      | [Python + OpenCode](https://www.boot.dev/courses/learn-ai-coding)                                        |
 | Capstone Project                     | [Your choice](https://www.boot.dev/courses/build-capstone-project)                                       |
 | Learn to Find a Job                  | [Job Search](https://www.boot.dev/courses/learn-job-search)                                              |

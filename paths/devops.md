@@ -26,6 +26,6 @@
 | Learn Cloud Infrastructure        | [AWS](https://www.boot.dev/courses/learn-aws)                                              |
 | Learn Infrastructure as Code      | Terraform                                                                                  |
 | Learn Kubernetes                  | [Kubernetes](https://www.boot.dev/courses/learn-kubernetes)                                |
-| Learn AI Coding                   | Python + OpenCode                                                                          |
+| Learn AI Coding                   | [Python + OpenCode](https://www.boot.dev/courses/learn-ai-coding)                          |
 | Capstone Project                  | [Your choice](https://www.boot.dev/courses/build-capstone-project)                         |
 | Learn to Find a Job               | [Job Search](https://www.boot.dev/courses/learn-job-search)                                |
