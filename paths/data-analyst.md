@@ -19,6 +19,6 @@
 | Learn Pandas                         | [Python + Pandas + Polars](https://www.boot.dev/courses/learn-pandas)           |
 | Learn Data Visualization and BI      | [Power BI](https://www.boot.dev/courses/learn-data-visualization-power-bi)      |
 | Learn Retrieval Augmented Generation | [Python](https://www.boot.dev/courses/learn-retrieval-augmented-generation)     |
-| Learn AI Coding                      | Python + OpenCode                                                               |
+| Learn AI Coding                      | [Python + OpenCode](https://www.boot.dev/courses/learn-ai-coding)               |
 | Capstone Project                     | [Your choice](https://www.boot.dev/courses/build-capstone-project)              |
 | Learn to Find a Job                  | [Job Search](https://www.boot.dev/courses/learn-job-search)                     |

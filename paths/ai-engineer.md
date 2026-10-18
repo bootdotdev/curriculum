@@ -18,7 +18,7 @@ _wip/planned_
 | Build a Web Scraper                  | [Python](https://www.boot.dev/courses/build-web-scraper-python)                 |
 | Personal Project 1                   | [Your choice](https://www.boot.dev/courses/build-personal-project-1)            |
 | Learn LLMs                           | Python + PyTorch                                                                |
-| Learn AI Coding                      | Python + OpenCode                                                               |
+| Learn AI Coding                      | [Python + OpenCode](https://www.boot.dev/courses/learn-ai-coding)               |
 | Learn Prompt and Context Engineering | Python                                                                          |
 | Learn SQL                            | [SQL](https://www.boot.dev/courses/learn-sql)                                   |
 | Learn HTTP Servers                   | Python                                                                          |
