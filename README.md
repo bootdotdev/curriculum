@@ -8,7 +8,7 @@ This is a living roadmap for [Boot.dev's coding curriculum](https://www.boot.dev
 
 ⭐ Hit this repo with a star if you find the roadmap useful! ⭐
 
-## Learning and Career Path Roadmaps
+## Path Roadmaps
 
 _Learning paths are made up of a series of courses_.
 
@@ -21,8 +21,8 @@ _Learning paths are made up of a series of courses_.
   - [Python & Go Path on Boot.dev](https://www.boot.dev/paths/devops?tech=python-golang)
 - [AI Engineer Roadmap (wip/planned)](paths/ai-engineer.md)
   - Python
-- [Data Engineer Roadmap (wip/planned)](paths/data-engineer.md)
-  - Python & Go
+- [Data Science Roadmap (wip/planned)](paths/data-science.md)
+  - Python
 - [Fullstack Developer Roadmap (wip/planned)](paths/fullstack.md)
   - Python & TypeScript
 - [Computer Science Roadmap (wip/planned)](paths/computer-science.md)
